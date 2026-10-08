@@ -9,15 +9,31 @@ $m3u_urls = [
 $output_file = 'playlist.m3u';
 $combined_content = "#EXTM3U\n";
 
-foreach ($m3u_urls as $url) {
-    // URL থেকে ডাটা ডাউনলোড করার চেষ্টা
-    $content = @file_get_contents($url);
+// cURL ব্যবহার করে ডাটা আনার ফাংশন
+function fetch_m3u($url) {
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+    curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)');
+    curl_setopt($ch, CURLOPT_TIMEOUT, 15);
     
-    if ($content !== false) {
-        $lines = explode("\n", $content);
+    $response = curl_exec($ch);
+    curl_close($ch);
+    return $response;
+}
+
+// প্রতিটি লিংক থেকে ডাটা ডাউনলোড ও মার্জ করা
+foreach ($m3u_urls as $url) {
+    $content = fetch_m3u($url);
+    
+    if (!empty($content)) {
+        // লাইনের ভেতরের স্পেস বা এন্টার ঠিক করা
+        $lines = preg_split('/\r\n|\r|\n/', $content);
         foreach ($lines as $line) {
             $trimmed = trim($line);
-            // #EXTM3U হেডার বাদ দিয়ে বাকি সব লাইন যোগ করবে
+            // মূল ফাইলের #EXTM3U বাদ দিয়ে শুধু চ্যানেলের তথ্য যোগ করা
             if (!empty($trimmed) && strpos($trimmed, '#EXTM3U') === false) {
                 $combined_content .= $trimmed . "\n";
             }

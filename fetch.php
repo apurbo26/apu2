@@ -3,7 +3,7 @@
 $m3u_urls = [
     'https://alixbd.com/playlistconfig/playlist.m3u',
     'https://alixbd.com/playlistconfig/playlist.m3u',
-    'https://is.gd/i9cTSF'
+    'https://m3u.ch/pl/db2d78197a1fe0e22f553110367e07e5_b016f8a0a7726cc83318ddeb9a20e1d5.m3u'
 ];
 
 $output_file = 'playlist.m3u';

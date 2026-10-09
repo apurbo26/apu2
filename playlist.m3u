@@ -1,13 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:03 PM 09-10-2026
+# Last Update: 11:23 PM 09-10-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 #EXTINF:-1 tvg-id="tapmad-17715" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17912807661020x576.jpg" group-title="Cricket", India vs West Indies - 2nd T20I - West Indies Tour of India 2026
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18302" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915465211020x576.jpg" group-title="Cricket", Pakistan vs Sri Lanka - 1st T20I - Sri Lanka Tour of Pakistan 2026
-https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png" group-title="Toffee",Toffee TV
 https://alixbd.com/playlistconfig/channel/1.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png" group-title="Toffee",Toffee Movies

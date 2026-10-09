@@ -1,9 +1,13 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:45 AM 10-10-2026
+# Last Update: 03:00 AM 10-10-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
+#EXTINF:-1 tvg-id="tapmad-18265" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909256501020x576.jpg" group-title="Football", Malaga vs Espanyol - MATCHDAY 8 - LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18413" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911870941020x576.jpg" group-title="Football", Lens vs OL - MATCHDAY 6 - French Ligue 1 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png" group-title="Toffee",Toffee TV
 https://alixbd.com/playlistconfig/channel/1.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png" group-title="Toffee",Toffee Movies
@@ -395,38 +399,26 @@ https://m3uworld4k.s.gy/awarapan2-hd.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg" group-title="Movies",Jana Nayagan (2026)
 https://m3uworld4k.s.gy/jana-nayagan-2026.mkv
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:02:32 AM 10-10-2026
+#LAST_UPDATE:03:02 AM 10-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:8
+#LIVE_COUNT:6
 #UPCOMING_COUNT:0
-#EXTINF:-1 tvg-id="B0HKQ6YPL8" tvg-name="World Skate Championships" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5e4f3b99-6276-4aae-9fca-aae0fb169471/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",World Skate Championships
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b53ca5be81c34f510be1995a09a91f4d:21f595066124ffc97e2e29c232243b16
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/gtmg6uplro/out/v1/6d4b1ce1834f4eb886955044e1c094e7/cenc.mpd
-#EXTINF:-1 tvg-id="B0HC35KD8H" tvg-name="Germany vs. Australia" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.725315df-56af-480a-9566-4e0171141269/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Germany vs. Australia
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 #EXTINF:-1 tvg-id="B0HL88CMQS" tvg-name="PPA Tour Chicago Cup: Quarterfinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f90a8e07-8c13-49cc-81d7-35c935201fdc/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PPA Tour Chicago Cup: Quarterfinals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
-#EXTINF:-1 tvg-id="B0HKCNQ87X" tvg-name="Season 2026" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9790b699-e789-40fe-a204-7254969394de/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Season 2026
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
+#EXTINF:-1 tvg-id="B0HKQ6YPL8" tvg-name="World Skate Championships" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5e4f3b99-6276-4aae-9fca-aae0fb169471/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",World Skate Championships
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=b53ca5be81c34f510be1995a09a91f4d:21f595066124ffc97e2e29c232243b16
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/gtmg6uplro/out/v1/6d4b1ce1834f4eb886955044e1c094e7/cenc.mpd
 #EXTINF:-1 tvg-id="B0HKTZ475Q" tvg-name="Leicester Tigers vs Gloucester Rugby - Rugby" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.73aaf097-1868-4da3-bc03-06f0989f0b60/42/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Leicester Tigers vs Gloucester Rugby - Rugby
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd

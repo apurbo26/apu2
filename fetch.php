@@ -3,8 +3,7 @@
 $m3u_urls = [
     'https://gist.githubusercontent.com/albatr0ssss/3cff7a26be49b1d352c15f615067e7cd/raw/tapmad_bd.m3u',
     'https://raw.githubusercontent.com/apurbo26/toffee/refs/heads/main/toffee_playlist.m3u',
-    'https://m3u.ch/pl/db2d78197a1fe0e22f553110367e07e5_b016f8a0a7726cc83318ddeb9a20e1d5.m3u'
-];,
+    'https://m3u.ch/pl/db2d78197a1fe0e22f553110367e07e5_b016f8a0a7726cc83318ddeb9a20e1d5.m3u',
     'https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/primevideo_sports.m3u'
 ];
 

@@ -1,11 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:48 PM 09-10-2026
+# Last Update: 11:03 PM 09-10-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-17093" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909262331020x576.jpg" group-title="Football", Al Fateh vs Al-Ahli - MATCHDAY 8 - Saudi Pro League 2026/27
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17715" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17912807661020x576.jpg" group-title="Cricket", India vs West Indies - 2nd T20I - West Indies Tour of India 2026
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18302" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915465211020x576.jpg" group-title="Cricket", Pakistan vs Sri Lanka - 1st T20I - Sri Lanka Tour of Pakistan 2026
@@ -401,23 +399,11 @@ https://m3uworld4k.s.gy/awarapan2-hd.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg" group-title="Movies",Jana Nayagan (2026)
 https://m3uworld4k.s.gy/jana-nayagan-2026.mkv
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:10:32 PM 09-10-2026
+#LAST_UPDATE:11:02 PM 09-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:5
+#LIVE_COUNT:4
 #UPCOMING_COUNT:0
-#EXTINF:-1 tvg-id="B0HM7GPJCC" tvg-name="ONE Friday Fights 174" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b20b13fa-3883-405f-a9d5-bdd3e3c09301/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",ONE Friday Fights 174
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
-#EXTINF:-1 tvg-id="B0HM6G2NV6" tvg-name="Ukraine vs. Spain" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.01123cf8-c0b5-450d-ac85-3e99d40956cb/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Ukraine vs. Spain
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
 #EXTINF:-1 tvg-id="B0HKNSGQGF" tvg-name="Cricket Highlights-Pakistan vs Sri Lanka: 1st T20I" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ffc65e15-0965-4ce8-acaa-f1f97ab50f67/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Cricket Highlights-Pakistan vs Sri Lanka: 1st T20I
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd

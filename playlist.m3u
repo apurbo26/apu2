@@ -1,13 +1,13 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:45 PM 12-10-2026
+# Last Update: 12:01 AM 13-10-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-18628" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17912767411020x576.jpg" group-title="Football", Tractor FC (IRN) vs Al Shamal SC (QAT) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18633" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17912774171020x576.jpg" group-title="Football", Al Wasl FC (UAE) vs Al Ahli Saudi FC (KSA) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18648" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913605241020x576.jpg" group-title="Football", Al Nassr Club (KSA) vs PFC Neftchi (UZB) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png" group-title="Toffee",Toffee TV
 https://alixbd.com/playlistconfig/channel/1.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png" group-title="Toffee",Toffee Movies
@@ -409,7 +409,7 @@ https://m3uworld4k.s.gy/awarapan2-hd.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg" group-title="Movies",Jana Nayagan (2026)
 https://m3uworld4k.s.gy/jana-nayagan-2026.mkv
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:11:32 PM 12-10-2026
+#LAST_UPDATE:12:02 AM 13-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:4
@@ -425,4 +425,4 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dsf0pim6dm/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd

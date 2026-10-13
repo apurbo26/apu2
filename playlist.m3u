@@ -1,11 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:30 PM 13-10-2026
+# Last Update: 06:48 PM 13-10-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 #EXTINF:-1 tvg-id="tapmad-18304" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915465481020x576.jpg" group-title="Cricket", Pakistan vs Sri Lanka - 3rd T20I - Sri Lanka Tour of Pakistan 2026
-https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18673" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913653321020x576.jpg" group-title="Football", Buriram United (THA) vs Beijing FC (CHN) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18678" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913657661020x576.jpg" group-title="Football", Cong An Hai Noi FC (VIE) vs Kashima Antlers (JPN) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27

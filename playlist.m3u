@@ -1,11 +1,13 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:30 PM 13-10-2026
+# Last Update: 07:45 PM 13-10-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 #EXTINF:-1 tvg-id="tapmad-18304" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915465481020x576.jpg" group-title="Cricket", Pakistan vs Sri Lanka - 3rd T20I - Sri Lanka Tour of Pakistan 2026
 https://t-prod-pk.tapmad.com/v1/019eff56c91d15e8f412028003f9/019eff5a7a6f15e8f060057b6796/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-18458" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913591511020x576.jpg" group-title="Football", East Bengal FC (IND) vs Al Shorta (IRQ) Live - MATCHDAY 2 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18673" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913653321020x576.jpg" group-title="Football", Buriram United (THA) vs Beijing FC (CHN) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18678" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913657661020x576.jpg" group-title="Football", Cong An Hai Noi FC (VIE) vs Kashima Antlers (JPN) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27

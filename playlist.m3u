@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:30 PM 14-10-2026
+# Last Update: 10:45 PM 14-10-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -8,6 +8,8 @@
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18350" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914434581020x576.jpg" group-title="Football", LASK vs Liverpool - MATCHDAY 2 - UEFA Champions League 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18351" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914432931020x576.jpg" group-title="Football", Feyenoord vs Como - MATCHDAY 2 - UEFA Champions League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18478" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914549581020x576.jpg" group-title="Football", Al Jazira Club (UAE) vs FC Arkadag (TKM) Live - MATCHDAY 2 - AFC Champions League Two 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18483" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914554331020x576.jpg" group-title="Football", Al Muharraq SC (BHR) vs Golgohar Sirjan SC (IRN) Live - MATCHDAY 2 - AFC Champions League Two 2026/27

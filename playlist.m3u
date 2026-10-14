@@ -1,21 +1,13 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:45 AM 15-10-2026
+# Last Update: 03:00 AM 15-10-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 #EXTINF:-1 tvg-id="tapmad-18352" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914441301020x576.jpg" group-title="Football", Shakhtar Donetsk vs AEK Athens - MATCHDAY 2 - UEFA Champions League 2026/27
 https://tencent-cdn.tapmad.com/v1/019ea6d121dd15e8f4122afee4cf8f/019ea6d2f96e15e8f0602c5e1b7bc3/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18353" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914447441020x576.jpg" group-title="Football", Real Betis vs Porto - MATCHDAY 2 - UEFA Champions League 2026/27
-https://t-prod-pk.tapmad.com/v1/019eff56c91d15e8f412028003f9/019eff5a7a6f15e8f060057b6796/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18354" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914438101020x576.jpg" group-title="Football", Roma vs Real Madrid - MATCHDAY 2 - UEFA Champions League 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18355" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914449041020x576.jpg" group-title="Football", Slovan Bratislava vs Stuttgart - MATCHDAY 2 - UEFA Champions League 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18356" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914439461020x576.jpg" group-title="Football", Aston Villa vs Fenerbahce - MATCHDAY 2 - UEFA Champions League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18357" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914446001020x576.jpg" group-title="Football", Manchester City vs Paris Saint-Germain - MATCHDAY 2 - UEFA Champions League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18358" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914443151020x576.jpg" group-title="Football", Bodo/Glimt vs Borussia Dortmund - MATCHDAY 2 - UEFA Champions League 2026/27
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-fifa326478feb/master.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png" group-title="Toffee",Toffee TV
@@ -421,7 +413,7 @@ https://m3uworld4k.s.gy/awarapan2-hd.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg" group-title="Movies",Jana Nayagan (2026)
 https://m3uworld4k.s.gy/jana-nayagan-2026.mkv
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:02:32 AM 15-10-2026
+#LAST_UPDATE:03:02 AM 15-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:4
@@ -431,4 +423,4 @@ https://m3uworld4k.s.gy/jana-nayagan-2026.mkv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd

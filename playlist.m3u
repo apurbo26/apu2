@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:00 AM 15-10-2026
+# Last Update: 12:15 AM 15-10-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -8,10 +8,6 @@
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18351" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914432931020x576.jpg" group-title="Football", Feyenoord vs Como - MATCHDAY 2 - UEFA Champions League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18478" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914549581020x576.jpg" group-title="Football", Al Jazira Club (UAE) vs FC Arkadag (TKM) Live - MATCHDAY 2 - AFC Champions League Two 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18483" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914554331020x576.jpg" group-title="Football", Al Muharraq SC (BHR) vs Golgohar Sirjan SC (IRN) Live - MATCHDAY 2 - AFC Champions League Two 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18493" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915278421020x576.jpg" group-title="Football", Al Faisaly (JOR) vs Al Nahda Club (OMA) Live - MATCHDAY 2 - AFC Champions League Two 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png" group-title="Toffee",Toffee TV

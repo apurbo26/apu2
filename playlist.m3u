@@ -1,19 +1,17 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:30 AM 15-10-2026
+# Last Update: 12:45 AM 15-10-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-18350" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914434581020x576.jpg" group-title="Football", LASK vs Liverpool - MATCHDAY 2 - UEFA Champions League 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18351" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914432931020x576.jpg" group-title="Football", Feyenoord vs Como - MATCHDAY 2 - UEFA Champions League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18352" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914441301020x576.jpg" group-title="Football", Shakhtar Donetsk vs AEK Athens - MATCHDAY 2 - UEFA Champions League 2026/27
 https://tencent-cdn.tapmad.com/v1/019ea6d121dd15e8f4122afee4cf8f/019ea6d2f96e15e8f0602c5e1b7bc3/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18353" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914447441020x576.jpg" group-title="Football", Real Betis vs Porto - MATCHDAY 2 - UEFA Champions League 2026/27
 https://t-prod-pk.tapmad.com/v1/019eff56c91d15e8f412028003f9/019eff5a7a6f15e8f060057b6796/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18354" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914438101020x576.jpg" group-title="Football", Roma vs Real Madrid - MATCHDAY 2 - UEFA Champions League 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18355" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914449041020x576.jpg" group-title="Football", Slovan Bratislava vs Stuttgart - MATCHDAY 2 - UEFA Champions League 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18358" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914443151020x576.jpg" group-title="Football", Bodo/Glimt vs Borussia Dortmund - MATCHDAY 2 - UEFA Champions League 2026/27
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-fifa326478feb/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18493" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915278421020x576.jpg" group-title="Football", Al Faisaly (JOR) vs Al Nahda Club (OMA) Live - MATCHDAY 2 - AFC Champions League Two 2026/27

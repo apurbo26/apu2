@@ -1,9 +1,13 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:01 PM 15-10-2026
+# Last Update: 10:15 PM 15-10-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
+#EXTINF:-1 tvg-id="tapmad-18943" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916606221020x576.jpg" group-title="Football", Celje vs Omonoia - MATCHDAY 2 - UEFA Europa League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18948" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916617251020x576.jpg" group-title="Football", Lech Poznan vs Leverkusen - MATCHDAY 2 - UEFA Europa League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png" group-title="Toffee",Toffee TV
 https://alixbd.com/playlistconfig/channel/1.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png" group-title="Toffee",Toffee Movies
@@ -12,7 +16,7 @@ https://alixbd.com/playlistconfig/channel/2.m3u8
 https://alixbd.com/playlistconfig/channel/3.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/F9UM56ABalKyvLQIr9B1/posters/26081e64-671e-44a8-95ba-a692bfaae49c.jpeg" group-title="Toffee",AWSN TV
 https://alixbd.com/playlistconfig/channel/4.m3u8
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/HHnAgJkBcqxnFHJBabwO/posters/feb54585-d123-4815-b548-ef7014df6e5d.png" group-title="Toffee",FC | Live 1
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/HHnAgJkBcqxnFHJBabwO/posters/feb54585-d123-4815-b548-ef7014df6e5d.png" group-title="Toffee",BFL | Live 1
 https://alixbd.com/playlistconfig/channel/5.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png" group-title="Toffee",WC Match Recap
 https://alixbd.com/playlistconfig/channel/6.m3u8

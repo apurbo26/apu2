@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 04:15 PM 16-10-2026
+# Last Update: 04:30 PM 16-10-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -12,13 +12,13 @@ https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
 https://alixbd.com/playlistconfig/channel/1.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png" group-title="Toffee",Toffee Movies
 https://alixbd.com/playlistconfig/channel/2.m3u8
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/MXnGgJkBcqxnFHJBILyR/posters/83032d69-05f6-4048-919d-7fcafe4e3735.png" group-title="Toffee",BFL | Live 2
-https://alixbd.com/playlistconfig/channel/3.m3u8
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/F9UM56ABalKyvLQIr9B1/posters/26081e64-671e-44a8-95ba-a692bfaae49c.jpeg" group-title="Toffee",AWSN TV
-https://alixbd.com/playlistconfig/channel/4.m3u8
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/HHnAgJkBcqxnFHJBabwO/posters/feb54585-d123-4815-b548-ef7014df6e5d.png" group-title="Toffee",BFL | Live 1
-https://alixbd.com/playlistconfig/channel/5.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png" group-title="Toffee",WC Match Recap
+https://alixbd.com/playlistconfig/channel/3.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/HHnAgJkBcqxnFHJBabwO/posters/feb54585-d123-4815-b548-ef7014df6e5d.png" group-title="Toffee",BFL | Live 1
+https://alixbd.com/playlistconfig/channel/4.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/MXnGgJkBcqxnFHJBILyR/posters/83032d69-05f6-4048-919d-7fcafe4e3735.png" group-title="Toffee",BFL | Live 2
+https://alixbd.com/playlistconfig/channel/5.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/F9UM56ABalKyvLQIr9B1/posters/26081e64-671e-44a8-95ba-a692bfaae49c.jpeg" group-title="Toffee",AWSN TV
 https://alixbd.com/playlistconfig/channel/6.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/VC6Q-JQBv9knK3AHhTXt/posters/63e79814-8fcf-4c3e-bb66-408b2a402613.webp" group-title="Toffee",CNN
 https://alixbd.com/playlistconfig/channel/7.m3u8
@@ -409,7 +409,7 @@ https://m3uworld4k.s.gy/awarapan2-hd.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg" group-title="Movies",Jana Nayagan (2026)
 https://m3uworld4k.s.gy/jana-nayagan-2026.mkv
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:04:02 PM 16-10-2026
+#LAST_UPDATE:04:32 PM 16-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0

@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:30 PM 18-10-2026
+# Last Update: 06:45 PM 18-10-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -8,6 +8,8 @@
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18280" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909334501020x576.jpg" group-title="Football", Osasuna vs Racing Santander - MATCHDAY 9 - LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18426" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918815661020x576.jpg" group-title="Football", Angers vs Marseille - MATCHDAY 7 - French Ligue 1 2026/27
+https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18880" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17919823391020x576.jpg" group-title="Cricket", Pakistan vs Sri Lanka - 1st ODI - Pakistan ODI Tri-Series 2026
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19004" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17919643121020x576.jpg" group-title="Racing", Moto 3 - Olbia, Italy - Race 3 - UIM - ABP Aquabike World Championship 2026

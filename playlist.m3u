@@ -1,15 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:00 PM 18-10-2026
+# Last Update: 11:15 PM 18-10-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 #EXTINF:-1 tvg-id="tapmad-18282" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909337051020x576.jpg" group-title="Football", Malaga vs Real Sociedad - MATCHDAY 9 - LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18427" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918817101020x576.jpg" group-title="Football", Le Havre vs Auxerre - MATCHDAY 7 - French Ligue 1 2026/27
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18428" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918818331020x576.jpg" group-title="Football", Lorient vs Monaco - MATCHDAY 7 - French Ligue 1 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18429" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918819751020x576.jpg" group-title="Football", Paris FC vs Rennes - MATCHDAY 7 - French Ligue 1 2026/27
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png" group-title="Toffee",Toffee TV

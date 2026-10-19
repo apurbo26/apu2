@@ -1,11 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:00 PM 19-10-2026
+# Last Update: 11:15 PM 19-10-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-17104" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17921483431020x576.jpg" group-title="Football", Al-Fayha vs Al-Ahli - MATCHDAY 10 - Saudi Pro League 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17105" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17924116441020x576.jpg" group-title="Football", Al-Hilal vs Al-Hazem - MATCHDAY 10 - Saudi Pro League 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18902" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17921308921020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - 2nd ODI - UAE ODI Tri-Series 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18902" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17921308921020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - 2nd ODI - UAE ODI Tri-Series 2026 - Server 2

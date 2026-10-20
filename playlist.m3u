@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:30 PM 20-10-2026
+# Last Update: 02:45 PM 20-10-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -8,6 +8,12 @@
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-17701" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918899001020x576.jpg" group-title="Cricket", South Africa vs Australia - 2nd Test - Australia Tour of South Africa 2026 - Server 2
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18262" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909367541020x576.jpg" group-title="Football", City Club vs Bashundhara Kings - MATCHDAY 4 - Federation Cup 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-18263" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909368641020x576.jpg" group-title="Football", Mohammedan SC Ltd vs PWD Sports Club - MATCHDAY 4 - Federation Cup 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-18264" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909369591020x576.jpg" group-title="Football", Arambagh Krira Shangha vs Dhaka Wanderers Club - MATCHDAY 4 - Federation Cup 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18881" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920437471020x576.jpg" group-title="Cricket", Pakistan vs England - 2nd ODI - Pakistan ODI Tri-Series 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18881" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920437471020x576.jpg" group-title="Cricket", Pakistan vs England - 2nd ODI - Pakistan ODI Tri-Series 2026 - Server 2

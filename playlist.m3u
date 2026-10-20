@@ -1,23 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 04:15 PM 20-10-2026
+# Last Update: 04:30 PM 20-10-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-17701" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918899001020x576.jpg" group-title="Cricket", South Africa vs Australia - 2nd Test - Australia Tour of South Africa 2026 - Server 1
-https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-17701" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918899001020x576.jpg" group-title="Cricket", South Africa vs Australia - 2nd Test - Australia Tour of South Africa 2026 - Server 2
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18262" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909367541020x576.jpg" group-title="Football", City Club vs Bashundhara Kings - MATCHDAY 4 - Federation Cup 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18263" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909368641020x576.jpg" group-title="Football", Mohammedan SC Ltd vs PWD Sports Club - MATCHDAY 4 - Federation Cup 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18264" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909369591020x576.jpg" group-title="Football", Arambagh Krira Shangha vs Dhaka Wanderers Club - MATCHDAY 4 - Federation Cup 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18881" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920437471020x576.jpg" group-title="Cricket", Pakistan vs England - 2nd ODI - Pakistan ODI Tri-Series 2026 - Server 1
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18881" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920437471020x576.jpg" group-title="Cricket", Pakistan vs England - 2nd ODI - Pakistan ODI Tri-Series 2026 - Server 2
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png" group-title="Toffee",Toffee TV
 https://alixbd.com/playlistconfig/channel/1.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png" group-title="Toffee",Toffee Movies
@@ -423,7 +409,7 @@ https://m3uworld4k.s.gy/awarapan2-hd.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg" group-title="Movies",Jana Nayagan (2026)
 https://m3uworld4k.s.gy/jana-nayagan-2026.mkv
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:04:02 PM 20-10-2026
+#LAST_UPDATE:04:32 PM 20-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:6
@@ -433,19 +419,19 @@ https://m3uworld4k.s.gy/jana-nayagan-2026.mkv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
-#EXTINF:-1 tvg-id="B0HF5VDZP4" tvg-name="Australia vs. New Zealand" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6b4b54f4-0be6-4eb7-b2bc-91ba70433024/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Australia vs. New Zealand
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 #EXTINF:-1 tvg-id="B0HFWWJWH6" tvg-name="Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.df9be69a-7bd6-4883-a021-b7e4801a1573/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=080ee04799e134b38da01ba4bfca26b7:e7238b74d5c55457ea611fe541c358aa
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/chnnxqauwu/out/v1/dfdb7db2bdf5432aacc28e53343360aa/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/chnnxqauwu/out/v1/dfdb7db2bdf5432aacc28e53343360aa/cenc.mpd
+#EXTINF:-1 tvg-id="B0HF5VDZP4" tvg-name="Australia vs. New Zealand" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6b4b54f4-0be6-4eb7-b2bc-91ba70433024/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Australia vs. New Zealand
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 #EXTINF:-1 tvg-id="B0HLKFR7YJ" tvg-name="New Zealand Women tour of Australia 2026 - 2nd T20I - Australia Women vs New Zealand Women" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2c58ef14-8c26-4d0c-b185-8fc6f476bea3/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",New Zealand Women tour of Australia 2026 - 2nd T20I - Australia Women vs New Zealand Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -457,4 +443,4 @@ https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/pabc4zn8o
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a735880c9bd9c4b32e5bbda6e7d31f:5c80ac6538d99e2fd05fceee6c549138
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h6rrgqdnxb/out/v1/10b57d26728f4bf482f1eef2aa9e9058/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h6rrgqdnxb/out/v1/10b57d26728f4bf482f1eef2aa9e9058/cenc.mpd

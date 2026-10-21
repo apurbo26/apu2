@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:30 AM 22-10-2026
+# Last Update: 12:45 AM 22-10-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -14,6 +14,8 @@ https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15f
 https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18374" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920506611020x576.jpg" group-title="Football", Aston Villa vs Viking - MATCHDAY 3 - UEFA Champions League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-18373" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920509401020x576.jpg" group-title="Football", Bayern Munchen vs Arsenal - MATCHDAY 3 - UEFA Champions League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18372" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920510731020x576.jpg" group-title="Football", Inter vs Shakhtar Donetsk - MATCHDAY 3 - UEFA Champions League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18903" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17923901731020x576.jpg" group-title="Cricket", Afghanistan vs Bangladesh - 3rd ODI - UAE ODI Tri-Series 2026 - Server 1

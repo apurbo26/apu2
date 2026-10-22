@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:30 AM 23-10-2026
+# Last Update: 01:45 AM 23-10-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -14,6 +14,10 @@ https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea
 https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18972" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916683951020x576.jpg" group-title="Football", Lillestrom vs Real Sociedad - MATCHDAY 3 - UEFA Europa League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-18971" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916681551020x576.jpg" group-title="Football", Besiktas vs Palace - MATCHDAY 3 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-18970" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916679621020x576.jpg" group-title="Football", Celje vs RB Salzburg - MATCHDAY 3 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png" group-title="Toffee",Toffee TV
 https://alixbd.com/playlistconfig/channel/1.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png" group-title="Toffee",Toffee Movies

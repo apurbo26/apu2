@@ -1,11 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:00 AM 24-10-2026
+# Last Update: 02:15 AM 24-10-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-17110" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926507261020x576.jpg" group-title="Football", Al Qadsiah vs Al-Hilal - MATCHDAY 11 - Saudi Pro League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18431" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17923907731020x576.jpg" group-title="Football", Brest vs Nice - MATCHDAY 8 - French Ligue 1 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18286" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926492771020x576.jpg" group-title="Football", Alaves vs Malaga - MATCHDAY 10 - LaLiga 2026/27

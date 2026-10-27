@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:15 AM 27-10-2026
+# Last Update: 07:30 AM 27-10-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -1117,7 +1117,7 @@ https://tv.kbhub.online/AS-BANGLADESH/BD-ZEE-BANGLA-CINEMA-HD.ts
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="AS |  BANGLADESH",BD| T SPORTS
 https://tv.kbhub.online/AS-BANGLADESH/BD-T-SPORTS.ts
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:07:02 AM 27-10-2026
+#LAST_UPDATE:07:32 AM 27-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:1
@@ -1127,7 +1127,7 @@ https://tv.kbhub.online/AS-BANGLADESH/BD-T-SPORTS.ts
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady

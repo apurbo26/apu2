@@ -1,17 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:45 PM 27-10-2026
+# Last Update: 12:00 AM 28-10-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-19111" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17927539991020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - 1st T20I - Afghanistan vs Zimbabwe 2026 - Server 1
-https://t-prod-bd.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19111" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17927539991020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - 1st T20I - Afghanistan vs Zimbabwe 2026 - Server 2
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18788" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925681931020x576.jpg" group-title="Football", Shabab Al Ahli (UAE) vs Esteghlal FC (IRN) - MATCHDAY 3 - AFC Champions League Elite 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18538" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926546121020x576.jpg" group-title="Football", Al Seeb Club (OMA) vs East Bengal FC (IND) - MATCHDAY 3 - AFC Champions League Two 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png" group-title="Toffee",Toffee TV
 https://alixbd.com/playlistconfig/channel/1.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png" group-title="Toffee",Toffee Movies

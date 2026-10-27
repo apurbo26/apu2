@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 08:00 PM 27-10-2026
+# Last Update: 08:15 PM 27-10-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -12,6 +12,10 @@ https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18778" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925674741020x576.jpg" group-title="Football", Ratchaburi FC (THA) vs Kashiwa Reysol (JPN) - MATCHDAY 3 - AFC Champions League Elite 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-19111" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17927539991020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - 1st T20I - Afghanistan vs Zimbabwe 2026 - Server 1
+https://t-prod-bd.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19111" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17927539991020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - 1st T20I - Afghanistan vs Zimbabwe 2026 - Server 2
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png" group-title="Toffee",Toffee TV
 https://alixbd.com/playlistconfig/channel/1.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png" group-title="Toffee",Toffee Movies
@@ -1169,6 +1173,6 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eieh0ekrzy/
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:50:29 PM 27-10-2026
+# last_update: 08:20:32 PM 27-10-2026
 #EXTINF:-1 tvg-id="sonyliv-1090550786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027434/1793041312495594_STCL26_delhi_vs_haryana_landscape_thumb.jpg" group-title="Cricket", Delhi Leaders vs Haryana Lions - Semi Final 1 | Salute Tiranga Cricket League (STCL) 2026 [Hindi]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa083prod-PlaybackConfig/2120305/criclive2710/HIN/master.m3u8?hdnea=exp=1793146849~acl=/*~id=23934922890663764224271584022865~hmac=0c1c711a8009f6c568eae2b6ef3917e56d30cb3ef91f457895b5b441fd0b601d

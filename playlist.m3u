@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:30 PM 28-10-2026
+# Last Update: 11:45 PM 28-10-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -8,6 +8,10 @@
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18563" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926589731020x576.jpg" group-title="Football", Al Jazira Club (UAE) vs Al Muharraq SC (BHR) - MATCHDAY 3 - AFC Champions League Two 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18578" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17927364781020x576.jpg" group-title="Football", Al Khaldiya SC (BHR) vs Al Wahda FC (UAE) - MATCHDAY 3 - AFC Champions League Two 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18573" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926595861020x576.jpg" group-title="Football", Al Faisaly (JOR) vs Al Taawoun FC (KSA) - MATCHDAY 3 - AFC Champions League Two 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png" group-title="Toffee",Toffee TV
 https://alixbd.com/playlistconfig/channel/1.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png" group-title="Toffee",Toffee Movies
@@ -1141,4 +1145,4 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl96
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:20:34 PM 28-10-2026
+# last_update: 11:50:34 PM 28-10-2026

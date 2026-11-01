@@ -1,13 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:30 AM 02-11-2026
+# Last Update: 02:45 AM 02-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-19454" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933459951020x576.jpg" group-title="Football", Elche vs Valencia - MATCHDAY 11 - LaLiga 2026/27 - Server 1
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19454" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933459951020x576.jpg" group-title="Football", Elche vs Valencia - MATCHDAY 11 - LaLiga 2026/27 - Server 2
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18448" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17931690231020x576.jpg" group-title="Football", Marseille vs Toulouse - MATCHDAY 9 - French Ligue 1 2026/27
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19455" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17935602321020x576.jpg" group-title="Football", Athletic vs Real Sociedad - MATCHDAY 11 - LaLiga 2026/27
@@ -1157,4 +1153,4 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:20:31 AM 02-11-2026
+# last_update: 02:50:33 AM 02-11-2026

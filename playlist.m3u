@@ -1,19 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:30 PM 01-11-2026
+# Last Update: 05:45 PM 01-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-19059" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925741151020x576.jpg" group-title="Cricket", New Zealand vs India - 5th T20I - India Tour of New Zealand 2026 - Server 1
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19059" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925741151020x576.jpg" group-title="Cricket", New Zealand vs India - 5th T20I - India Tour of New Zealand 2026 - Server 2
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-19184" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17934894001020x576.jpg" group-title="Cricket", Sydney Sixers vs Hobart Hurricanes - Group Stage - Women's Big Bash League 2026
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19229" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930939841020x576.jpg" group-title="Football", Hwacheon KSPO WFC (KOR) vs 4.25 Sports Club (PRK) - MATCHDAY 1 - AFC Women's Champions League 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-id="tapmad-19224" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930936501020x576.jpg" group-title="Football", INAC Kobe Leonessa (JPN) vs Bam Khatoon FC (IRN) - MATCHDAY 1 - AFC Women's Champions League 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-19234" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930943591020x576.jpg" group-title="Football", Beijing Jingtan Football Club (CHN) vs Kaya FC-Iloilo (PHI) - MATCHDAY 1 - AFC Women's Champions League 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png" group-title="Toffee",Toffee TV
@@ -1167,10 +1157,8 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vqu1w8f6e7/
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:20:43 PM 01-11-2026
-#EXTINF:-1 tvg-id="sonyliv-1090551626" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792881645594355_ISL26_Mumbai_City_FC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg" group-title="Sport", Mumbai City FC vs Sporting Club Delhi | MG Indian Super League 2026-27 [English]
+# last_update: 05:50:33 PM 01-11-2026
+#EXTINF:-1 tvg-id="sonyliv-1090551626" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792881645594355_ISL26_Mumbai_City_FC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg" group-title="Football", Mumbai City FC vs Sporting Club Delhi | MG Indian Super League 2026-27 [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2120299/footlive0111/ENG/master.m3u8?hdnea=exp=1793573457~acl=/*~id=51841935488676790268620609403187~hmac=7064df43423b00a303c0236945e80e356a72c5bd41322796c2bd6b9a3ba1e8e3
-#EXTINF:-1 tvg-id="sonyliv-1090551626" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792881645594355_ISL26_Mumbai_City_FC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg" group-title="Sport", Mumbai City FC vs Sporting Club Delhi | MG Indian Super League 2026-27 [Hindi]
+#EXTINF:-1 tvg-id="sonyliv-1090551626" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792881645594355_ISL26_Mumbai_City_FC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg" group-title="Football", Mumbai City FC vs Sporting Club Delhi | MG Indian Super League 2026-27 [Hindi]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2120301/footlive0111/HIN/master.m3u8?hdnea=exp=1793573457~acl=/*~id=51841935488676790268620609403187~hmac=7064df43423b00a303c0236945e80e356a72c5bd41322796c2bd6b9a3ba1e8e3
-#EXTINF:-1 tvg-id="sonyliv-1090551654" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg" group-title="Sport", 5th T20I | India Tour of New Zealand 2026 [English]
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1793557250~acl=/*~id=19985914225233742252051235600186~hmac=335ff81241bab07b20eb3e7c0e2af0df47fe58728b49b43e705b6789245e9424

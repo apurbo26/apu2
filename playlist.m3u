@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:30 PM 01-11-2026
+# Last Update: 02:45 PM 01-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -10,10 +10,12 @@ https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115f
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-19338" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932645421020x576.jpg" group-title="Cricket", Hong Kong Sixes - Day 3 - Knockout Stage / Finals - Hong Kong International Sixes 2026
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19183" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17934891501020x576.jpg" group-title="Cricket", Sydney Thunder vs Brisbane Heat - Group Stage - Women's Big Bash League 2026
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19184" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17934894001020x576.jpg" group-title="Cricket", Sydney Sixers vs Hobart Hurricanes - Group Stage - Women's Big Bash League 2026
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19229" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930939841020x576.jpg" group-title="Football", Hwacheon KSPO WFC (KOR) vs 4.25 Sports Club (PRK) - MATCHDAY 1 - AFC Women's Champions League 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-19224" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930936501020x576.jpg" group-title="Football", INAC Kobe Leonessa (JPN) vs Bam Khatoon FC (IRN) - MATCHDAY 1 - AFC Women's Champions League 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png" group-title="Toffee",Toffee TV
 https://alixbd.com/playlistconfig/channel/1.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png" group-title="Toffee",Toffee Movies
@@ -1171,6 +1173,6 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gog1xdwuxy/out/v1
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:20:32 PM 01-11-2026
+# last_update: 02:50:35 PM 01-11-2026
 #EXTINF:-1 tvg-id="sonyliv-1090551654" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg" group-title="Cricket", 5th T20I | India Tour of New Zealand 2026 [English]
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1793557250~acl=/*~id=19985914225233742252051235600186~hmac=335ff81241bab07b20eb3e7c0e2af0df47fe58728b49b43e705b6789245e9424

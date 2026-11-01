@@ -1,27 +1,21 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:30 PM 01-11-2026
+# Last Update: 11:45 PM 01-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-19332" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930987881020x576.jpg" group-title="Horse Riding", Leg 2 - Lyon (FRA) - Race - Longines FEI Jumping World Cup 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-19249" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930956371020x576.jpg" group-title="Football", Melbourne City FC (AUS) vs PFC Nasaf (UZB) - MATCHDAY 1 - AFC Women's Champions League 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-id="tapmad-19244" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930953311020x576.jpg" group-title="Football", Ho Chi Minh City Women's FC (VIE) vs East Bengal FC (IND) - MATCHDAY 1 - AFC Women's Champions League 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-19113" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930918031020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - 3rd T20I - Afghanistan vs Zimbabwe 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19113" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930918031020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - 3rd T20I - Afghanistan vs Zimbabwe 2026 - Server 2
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-19453" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933459221020x576.jpg" group-title="Football", Racing Santander vs Real Madrid - MATCHDAY 11 - LaLiga 2026/27 - Server 1
-https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19453" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933459221020x576.jpg" group-title="Football", Racing Santander vs Real Madrid - MATCHDAY 11 - LaLiga 2026/27 - Server 2
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18447" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17931688951020x576.jpg" group-title="Football", Paris FC vs Monaco - MATCHDAY 9 - French Ligue 1 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18443" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17931684561020x576.jpg" group-title="Football", OL vs Angers - MATCHDAY 9 - French Ligue 1 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19454" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933459951020x576.jpg" group-title="Football", Elche vs Valencia - MATCHDAY 11 - LaLiga 2026/27 - Server 1
+https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19454" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933459951020x576.jpg" group-title="Football", Elche vs Valencia - MATCHDAY 11 - LaLiga 2026/27 - Server 2
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png" group-title="Toffee",Toffee TV
 https://alixbd.com/playlistconfig/channel/1.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png" group-title="Toffee",Toffee Movies
@@ -1173,4 +1167,4 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1ezgg5lj3
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:20:34 PM 01-11-2026
+# last_update: 11:50:33 PM 01-11-2026

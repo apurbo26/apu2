@@ -1,15 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:45 PM 03-11-2026
+# Last Update: 07:00 PM 03-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-19693" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936465401020x576.jpg" group-title="Football", Kashiwa Reysol (JPN) vs Daejeon Hana Citizen FC(KOR) - MATCHDAY 4 - AFC Champions League Elite 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-19688" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936470291020x576.jpg" group-title="Football", Vissel Kobe (JPN) vs Ratchaburi FC (THA) - MATCHDAY 4 - AFC Champions League Elite 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-19683" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936465551020x576.jpg" group-title="Football", Jeonbuk Hyundai Motors FC (KOR) vs Johor Darul Ta'zim FC (MAS) - MATCHDAY 4 - AFC Champions League Elite 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-19703" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936471311020x576.jpg" group-title="Football", Cong An Ha Noi FC (VIE) vs Kyoto Sanga F.C.(JPN) - MATCHDAY 4 - AFC Champions League Elite 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-19698" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936475671020x576.jpg" group-title="Football", Port FC (THA) vs Beijing FC (CHN) - MATCHDAY 4 - AFC Champions League Elite 2026/27
@@ -1127,7 +1121,7 @@ https://tv.kbhub.online/AS-BANGLADESH/BD-ZEE-BANGLA-CINEMA-HD.ts
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="AS |  BANGLADESH",BD| T SPORTS
 https://tv.kbhub.online/AS-BANGLADESH/BD-T-SPORTS.ts
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:06:32 PM 03-11-2026
+#LAST_UPDATE:07:02 PM 03-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:2
@@ -1137,13 +1131,13 @@ https://tv.kbhub.online/AS-BANGLADESH/BD-T-SPORTS.ts
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd
 #EXTINF:-1 tvg-id="B0HN3X9VQZ" tvg-name="Tennis Today Live-Hong Kong-WTA & Chennai-WTA-Live Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b5d9b993-dc82-453c-af0a-adadb157c03d/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Tennis Today Live-Hong Kong-WTA & Chennai-WTA-Live Early Rounds
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady

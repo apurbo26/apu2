@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 08:00 PM 04-11-2026
+# Last Update: 08:15 PM 04-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -10,6 +10,10 @@ https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154
 https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19508" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936496991020x576.jpg" group-title="Football", FC Arkadag (TKM) vs Golgohar Sirjan SC (IRN) - MATCHDAY 4 - AFC Champions League Two 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19279" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937822261020x576.jpg" group-title="Football", PFC Nasaf (UZB) vs Beijing Jingtan Football Club (CHN) - MATCHDAY 2 - AFC Women's Champions League 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19274" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937819971020x576.jpg" group-title="Football", East Bengal FC (IND) vs Hwacheon KSPO WFC (KOR) - MATCHDAY 2 - AFC Women's Champions League 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png" group-title="Toffee",Toffee TV
 https://alixbd.com/playlistconfig/channel/1.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png" group-title="Toffee",Toffee Movies
@@ -1149,6 +1153,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:50:41 PM 04-11-2026
+# last_update: 08:20:38 PM 04-11-2026
 #EXTINF:-1 tvg-id="sonyliv-1090552122" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792890776152359_UYL26_MD4_RC_Lens_vs_Como_landscape_thumb.jpg" group-title="Football", RC Lens vs Como | UEFA Youth League 2026-27 [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe3b6prod-PlaybackConfig/2120301/footlive0411/ENG/master.m3u8?hdnea=exp=1793839852~acl=/*~id=69885559663089223148204455128802~hmac=37e47dcf73cd02f2f58618579ea185c58639360a21d6a6aaf73b14855f7a13c3

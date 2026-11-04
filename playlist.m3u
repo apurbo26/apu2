@@ -1,11 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:00 PM 04-11-2026
+# Last Update: 10:15 PM 04-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-19508" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936496991020x576.jpg" group-title="Football", FC Arkadag (TKM) vs Golgohar Sirjan SC (IRN) - MATCHDAY 4 - AFC Champions League Two 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19279" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937822261020x576.jpg" group-title="Football", PFC Nasaf (UZB) vs Beijing Jingtan Football Club (CHN) - MATCHDAY 2 - AFC Women's Champions League 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19274" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937819971020x576.jpg" group-title="Football", East Bengal FC (IND) vs Hwacheon KSPO WFC (KOR) - MATCHDAY 2 - AFC Women's Champions League 2026/27
@@ -1159,7 +1157,7 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapix
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:50:38 PM 04-11-2026
+# last_update: 10:20:33 PM 04-11-2026
 #EXTINF:-1 tvg-id="sonyliv-1090551922" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027332/1792958081045483_UEL26_MD4_Stade_RennaisFC_vs_OlympiacosFC_landscape_thumb.jpg" group-title="Football", Stade Rennais FC vs Olympiacos FC | UEFA Europa League 2026-27 [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa74cprod-PlaybackConfig/2120299/footlive0411/ENG/master.m3u8?hdnea=exp=1793850656~acl=/*~id=42709376307326580607588270268245~hmac=40ca6580fcb86f51ddde14ffb878b77dc876647b0fdc12ef81ecbfc0acf03cc6
 #EXTINF:-1 tvg-id="sonyliv-1090552123" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792891167048359_UYL26_MD4_Dortmund_vs_Real_Betis_landscape_thumb.jpg" group-title="Football", Dortmund vs Real Betis | UEFA Youth League 2026-27 [English]

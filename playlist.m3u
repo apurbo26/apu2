@@ -1,21 +1,19 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:00 AM 05-11-2026
+# Last Update: 12:15 AM 05-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-19841" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937347461020x576.jpg" group-title="Football", Rennes vs Olympiacos - MATCHDAY 4 - UEFA Europa League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19523" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936510611020x576.jpg" group-title="Football", Al Rayyan SC (QAT) vs Al Nahda Club (OMA) - MATCHDAY 4 - AFC Champions League Two 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19518" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936507081020x576.jpg" group-title="Football", Kuwait SC (KUW) vs PFC Nasaf (UZB) - MATCHDAY 4 - AFC Champions League Two 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19513" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936502701020x576.jpg" group-title="Football", Al Wahda FC (UAE) vs Al Khaldiya SC (BHR) - MATCHDAY 4 - AFC Champions League Two 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19385" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932561221020x576.jpg" group-title="Football", Fenerbahce vs Liverpool - MATCHDAY 3 - UEFA Champions League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19384" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932560071020x576.jpg" group-title="Football", AEK Athens vs Real Madrid - MATCHDAY 3 - UEFA Champions League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19533" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936519101020x576.jpg" group-title="Football", Al Muharraq SC (BHR) vs Al Jazira Club (UAE) - MATCHDAY 4 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19528" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936514251020x576.jpg" group-title="Football", Al Taawoun FC (KSA) vs Al Faisaly (JOR) - MATCHDAY 4 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png" group-title="Toffee",Toffee TV
 https://alixbd.com/playlistconfig/channel/1.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png" group-title="Toffee",Toffee Movies
@@ -1163,6 +1161,16 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixo
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:50:31 PM 04-11-2026
+# last_update: 12:20:30 AM 05-11-2026
+#EXTINF:-1 tvg-id="sonyliv-1090551911" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg" group-title="Football", AEK Athens vs Real Madrid | UEFA Champions League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2120305/Footlive0411/ENG/master.m3u8?hdnea=exp=1793859671~acl=/*~id=50927113086388504997512085872660~hmac=1c4e431925c8aa1e598dbb7ee1bda794fad02f032abb99ce3c2378b77b90d7f3
+#EXTINF:-1 tvg-id="sonyliv-1090551911" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg" group-title="Football", AEK Athens vs Real Madrid | UEFA Champions League 2026-27 [Hindi]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3f63prod-PlaybackConfig/2120306/Footlive0411/HIN/master.m3u8?hdnea=exp=1793859671~acl=/*~id=50927113086388504997512085872660~hmac=1c4e431925c8aa1e598dbb7ee1bda794fad02f032abb99ce3c2378b77b90d7f3
+#EXTINF:-1 tvg-id="sonyliv-1090551911" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg" group-title="Football", AEK Athens vs Real Madrid | UEFA Champions League 2026-27 [Telugu]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3f63prod-PlaybackConfig/2120300/Footlive0411/TEL/master.m3u8?hdnea=exp=1793859671~acl=/*~id=50927113086388504997512085872660~hmac=1c4e431925c8aa1e598dbb7ee1bda794fad02f032abb99ce3c2378b77b90d7f3
+#EXTINF:-1 tvg-id="sonyliv-1090551911" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg" group-title="Football", AEK Athens vs Real Madrid | UEFA Champions League 2026-27 [Tamil]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3f63prod-PlaybackConfig/2120302/Footlive0411/TAM/master.m3u8?hdnea=exp=1793859671~acl=/*~id=50927113086388504997512085872660~hmac=1c4e431925c8aa1e598dbb7ee1bda794fad02f032abb99ce3c2378b77b90d7f3
+#EXTINF:-1 tvg-id="sonyliv-1090551911" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg" group-title="Football", AEK Athens vs Real Madrid | UEFA Champions League 2026-27 [Kannada]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3f63prod-PlaybackConfig/2120307/Footlive0411/KAN/master.m3u8?hdnea=exp=1793859671~acl=/*~id=50927113086388504997512085872660~hmac=1c4e431925c8aa1e598dbb7ee1bda794fad02f032abb99ce3c2378b77b90d7f3
 #EXTINF:-1 tvg-id="sonyliv-1090551910" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792953990078378_UCL26_MD4_Fenerbahce_vs_Liverpool_landscape_thumb.jpg" group-title="Football", Fenerbahçe vs Liverpool | UEFA Champions League 2026-27 [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT1fb8prod-PlaybackConfig/2022316/Footlive0411/ENG/master.m3u8?hdnea=exp=1793857851~acl=/*~id=83659208939244399959378200455225~hmac=39b017283816784a366e9466b14a043890d0472ec7bb60b038f2c0d981809c00

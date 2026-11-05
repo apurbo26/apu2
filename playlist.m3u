@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:00 PM 05-11-2026
+# Last Update: 06:15 PM 05-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -14,6 +14,12 @@ https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a154
 https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19538" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937346131020x576.jpg" group-title="Football", Lion City Sailors FC (SGP) vs Adelaide United FC (AUS) - MATCHDAY 4 - AFC Champions League Two 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19563" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937366421020x576.jpg" group-title="Football", Preah Khan Reach Svay Rieng FC (CAM) vs Tampines Rovers FC (SGP) - MATCHDAY 4 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19558" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937362761020x576.jpg" group-title="Football", BG Pathum United (THA) vs Tai Po FC (HKG) - MATCHDAY 4 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19553" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937358261020x576.jpg" group-title="Football", Kuching City FC (MAS) vs Gangwon FC (KOR) - MATCHDAY 4 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png" group-title="Toffee",Toffee TV
 https://alixbd.com/playlistconfig/channel/1.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png" group-title="Toffee",Toffee Movies
@@ -1183,7 +1189,7 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fqfdmhym1
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:50:31 PM 05-11-2026
+# last_update: 06:20:36 PM 05-11-2026
 #EXTINF:-1 tvg-id="sonyliv-1090552590" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883293621355_ISL26_ChurchillBFC_vs_NorthEastUnitedFC_live_landscape_thumb.jpg" group-title="Football", Churchill Brothers FC vs NorthEast United FC | MG Indian Super League 2026-27 [English]
 https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7b01prod-PlaybackConfig/2119931/cricodi_0511/ENG/master.m3u8?hdnea=exp=1793919056~acl=/*~id=96618440367271058711088244507217~hmac=c4153971da29189f7b230d6fa9cec799b21753ccc89a200f143140af35ca6659
 #EXTINF:-1 tvg-id="sonyliv-1090552590" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883293621355_ISL26_ChurchillBFC_vs_NorthEastUnitedFC_live_landscape_thumb.jpg" group-title="Football", Churchill Brothers FC vs NorthEast United FC | MG Indian Super League 2026-27 [Hindi]

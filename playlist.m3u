@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:30 AM 08-11-2026
+# Last Update: 01:45 AM 08-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -10,6 +10,8 @@ https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15f
 https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19960" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937917321020x576.jpg" group-title="Football", Auxerre vs Paris FC - MATCHDAY 10 - French Ligue 1 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20117" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939712561020x576.jpg" group-title="Football", Peterborough United vs Reading - 1st Round - FA Cup 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19461" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939687361020x576.jpg" group-title="Football", Valencia vs Real Madrid - MATCHDAY 12 - LaLiga 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19961" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937918821020x576.jpg" group-title="Football", PSG vs Troyes - MATCHDAY 10 - French Ligue 1 2026/27
@@ -1207,4 +1209,4 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl96
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:20:30 AM 08-11-2026
+# last_update: 01:50:29 AM 08-11-2026

@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:00 PM 07-11-2026
+# Last Update: 02:15 PM 07-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -16,8 +16,12 @@ https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19061" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937864731020x576.jpg" group-title="Cricket", New Zealand vs India - 2nd ODI - India Tour of New Zealand 2026 - Server 2
 https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-19190" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937849131020x576.jpg" group-title="Cricket", Melbourne Renegades vs Adelaide Strikers - Group Stage - Women's Big Bash League 2026
+#EXTINF:-1 tvg-id="tapmad-19191" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937850781020x576.jpg" group-title="Cricket", Brisbane Heat vs Hobart Hurricanes - Group Stage - Women's Big Bash League 2026
 https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19289" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17938636901020x576.jpg" group-title="Football", Hwacheon KSPO WFC (KOR) vs Ho Chi Minh City Women's FC (VIE) - MATCHDAY 3 - AFC Women's Champions League 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19284" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17938634021020x576.jpg" group-title="Football", Naegohyang Women's FC (PRK) vs INAC Kobe Leonessa (JPN) - MATCHDAY 3 - AFC Women's Champions League 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png" group-title="Toffee",Toffee TV
 https://alixbd.com/playlistconfig/channel/1.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png" group-title="Toffee",Toffee Movies
@@ -1187,7 +1191,7 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4bwynjqz
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:50:32 PM 07-11-2026
+# last_update: 02:20:33 PM 07-11-2026
 #EXTINF:-1 tvg-id="sonyliv-1090552837" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="Cricket", 2nd ODI | India Tour of New Zealand 2026 [English]
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1794059450~acl=/*~id=53641256541120658102129343195360~hmac=296fa2767c872cd2f7924a204638d277ec84c4fcd501289ddea5892a1a5066eb
 #EXTINF:-1 tvg-id="sonyliv-1090552844" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888653936682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day3_landscape_thumb.jpg" group-title="Golf", Abu Dhabi HSBC Championship - Day 3 | DP World Tour [English]

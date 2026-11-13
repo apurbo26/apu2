@@ -1,11 +1,15 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 09:00 AM 13-11-2026
+# Last Update: 09:15 AM 13-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 #EXTINF:-1 tvg-id="tapmad-19063" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937868251020x576.jpg" group-title="Cricket", New Zealand vs India - 4th ODI - India Tour of New Zealand 2026
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20131" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17943082361020x576.jpg" group-title="Cricket", Australia vs England - 1st ODI - England Tour of Australia 2026 - Server 1
+https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20131" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17943082361020x576.jpg" group-title="Cricket", Australia vs England - 1st ODI - England Tour of Australia 2026 - Server 2
+https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
 #EXTINF:-1 tvg-id="Xi_Ga5oBNnOkwJLWkhKP" tvg-name="Somoy TV" tvg-logo="https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="Toffee",Somoy TV
 https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?edge-cache-token=Expires=1794537019~Starts=1794533419~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiN2Q2ZmUxMWItNzA1YS00YWQ1LWEwZjctMzkzNDg1MTRlOWQ3In0~Signature=Y63BMCPVxPKZSEFSiJku-L3NjLij1jVjV-5qKjjVe2MclqrXB_qt6dl3DCviNZr9VFundLcDGK-fnzW27S4wDQ
 #EXTINF:-1 tvg-id="kK2aX5UBrjBfS2_RBcKf" tvg-name="Zee Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="Toffee",Zee Bangla
@@ -441,6 +445,6 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0pr
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:50:36 AM 13-11-2026
+# last_update: 09:20:31 AM 13-11-2026
 #EXTINF:-1 tvg-id="sonyliv-1090553600" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028746/1794294832944627_NZvsIND_4th_ODI_live_landscape_thumb.jpg" group-title="Cricket", 4th ODI | India Tour of New Zealand 2026 [English]
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1794577851~acl=/*~id=96293672809354845535538746530706~hmac=8bbbc88d5f85682228d9b734d907fd897180f44db2af882b15a81b06ec12c5fa

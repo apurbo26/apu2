@@ -1,13 +1,11 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:00 AM 15-11-2026
+# Last Update: 12:15 AM 15-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 #EXTINF:-1 tvg-id="tapmad-20203" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945729661020x576.jpg" group-title="Mma", Nemkov vs Bilostenniy - Semi Finals - PFL 2026
 https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-20181" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945514751020x576.jpg" group-title="Boat Racing", Round 7 - Race Off - Session 4 - E1 Series 2026
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-20075" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17942951621020x576.jpg" group-title="Football", Norway vs Wales - MATCHDAY 5 - UEFA Nations League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-20074" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17942950541020x576.jpg" group-title="Football", Georgia vs Hungary - MATCHDAY 5 - UEFA Nations League 2026/27
@@ -491,7 +489,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yooa0wvxcv/
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:50:33 PM 14-11-2026
+# last_update: 12:20:39 AM 15-11-2026
 #EXTINF:-1 tvg-id="sonyliv-1090553935" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027688/1793269515520450_UNL26_MD5_Norway-vs-Wales_live_landscape_thumb.jpg" group-title="Football", Norway vs Wales | UEFA Nations League 2026-27 [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT545eprod-PlaybackConfig/2094587/Footlive1411/ENG/master.m3u8?hdnea=exp=1794716455~acl=/*~id=13457047991325141932609389238619~hmac=21f22aa62e0cea64befad8f3aed6077b691d7f07be5a185859d9048f267741c7
 #EXTINF:-1 tvg-id="sonyliv-1090553936" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027688/1793269264284450_UNL26_MD5_Georgia-vs-Hungary_live_landscape_thumb.jpg" group-title="Football", Georgia vs Hungary | UEFA Nations League 2026-27 [English]

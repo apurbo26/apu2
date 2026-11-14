@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:00 AM 15-11-2026
+# Last Update: 01:15 AM 15-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -12,6 +12,14 @@ https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc0642156
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-20186" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945517571020x576.jpg" group-title="Boat Racing", Round 7 - Finals - Session 5 - E1 Series 2026
 https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20208" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17943009871020x576.jpg" group-title="Racing", Sixties Endurance by Peter Auto - Race - HSR Daytona Classic 2026
+https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20078" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17942959501020x576.jpg" group-title="Football", Northern Ireland vs Ukraine - MATCHDAY 5 - UEFA Nations League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20077" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17942958291020x576.jpg" group-title="Football", Portugal vs Denmark - MATCHDAY 5 - UEFA Nations League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20076" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17942956381020x576.jpg" group-title="Football", Austria vs Ireland - MATCHDAY 5 - UEFA Nations League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 tvg-id="Xi_Ga5oBNnOkwJLWkhKP" tvg-name="Somoy TV" tvg-logo="https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="Toffee",Somoy TV
 https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?edge-cache-token=Expires=1794663025~Starts=1794659425~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiN2Q2ZmUxMWItNzA1YS00YWQ1LWEwZjctMzkzNDg1MTRlOWQ3In0~Signature=eGXMysyr38fhs5ZWrHpbO1AfuU1PfeApDgb76WMWD8axRyDoHB8QuRNwE1KFDduNbKjGSGpOWGaA6DjYTX7KAA
 #EXTINF:-1 tvg-id="kK2aX5UBrjBfS2_RBcKf" tvg-name="Zee Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="Toffee",Zee Bangla
@@ -495,8 +503,14 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueo
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:50:33 AM 15-11-2026
-#EXTINF:-1 tvg-id="sonyliv-1090553935" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027688/1793269515520450_UNL26_MD5_Norway-vs-Wales_live_landscape_thumb.jpg" group-title="Football", Norway vs Wales | UEFA Nations League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT545eprod-PlaybackConfig/2094587/Footlive1411/ENG/master.m3u8?hdnea=exp=1794716455~acl=/*~id=13457047991325141932609389238619~hmac=21f22aa62e0cea64befad8f3aed6077b691d7f07be5a185859d9048f267741c7
-#EXTINF:-1 tvg-id="sonyliv-1090553936" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027688/1793269264284450_UNL26_MD5_Georgia-vs-Hungary_live_landscape_thumb.jpg" group-title="Football", Georgia vs Hungary | UEFA Nations League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT4cbfprod-PlaybackConfig/2018457/Footlive1411/ENG/master.m3u8?hdnea=exp=1794716455~acl=/*~id=13457047991325141932609389238619~hmac=21f22aa62e0cea64befad8f3aed6077b691d7f07be5a185859d9048f267741c7
+# last_update: 01:20:30 AM 15-11-2026
+#EXTINF:-1 tvg-id="sonyliv-1090553938" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027744/179319485375513_UNL26_MD6_Portugal_vs_denmark_landscape_thumb.jpg" group-title="Football", Portugal vs Denmark | UEFA Nations League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa74cprod-PlaybackConfig/2022322/footlive1411/ENG/master.m3u8?hdnea=exp=1794727248~acl=/*~id=45761197466477617207465268480836~hmac=eaceef6a315c5a23e2db0f011b221f1cf2daa869bd05b11927a10db969b2ac29
+#EXTINF:-1 tvg-id="sonyliv-1090553939" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027745/1793191749324232_UNL26_MD6_Romania_vs_Poland_landscape_thumb.jpg" group-title="Football", Romania vs Poland | UEFA Nations League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTb0dfprod-PlaybackConfig/2022316/footlive1411/ENG/master.m3u8?hdnea=exp=1794727248~acl=/*~id=45761197466477617207465268480836~hmac=eaceef6a315c5a23e2db0f011b221f1cf2daa869bd05b11927a10db969b2ac29
+#EXTINF:-1 tvg-id="sonyliv-1090553937" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027746/1793189705309704_UNL26_MD6_Sweden_vs_Bosnia_landscape_thumb.jpg" group-title="Football", Sweden vs Bosnia and Herzegovina | UEFA Nations League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTc5e8prod-PlaybackConfig/2022317/footlive1411/ENG/master.m3u8?hdnea=exp=1794727248~acl=/*~id=45761197466477617207465268480836~hmac=eaceef6a315c5a23e2db0f011b221f1cf2daa869bd05b11927a10db969b2ac29
+#EXTINF:-1 tvg-id="sonyliv-1090553941" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027743/1793197631827266_UNL26_MD6_Northern_Ireland_vs_Ukraine_landscape_thumb.jpg" group-title="Football", Northern Ireland vs Ukraine | UEFA Nations League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3dafprod-PlaybackConfig/2018458/footlive1411/ENG/master.m3u8?hdnea=exp=1794727248~acl=/*~id=45761197466477617207465268480836~hmac=eaceef6a315c5a23e2db0f011b221f1cf2daa869bd05b11927a10db969b2ac29
+#EXTINF:-1 tvg-id="sonyliv-1090553940" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027714/1793196174591509_UNL26_MD6_Austria_vs_Republic_of_Ireland_Art_landscape_thumb.jpg" group-title="Football", Austria vs Republic of Ireland | UEFA Nations League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT50d0prod-PlaybackConfig/2022320/footlive1411/ENG/master.m3u8?hdnea=exp=1794727248~acl=/*~id=45761197466477617207465268480836~hmac=eaceef6a315c5a23e2db0f011b221f1cf2daa869bd05b11927a10db969b2ac29

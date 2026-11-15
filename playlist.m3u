@@ -1,13 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:00 PM 15-11-2026
+# Last Update: 10:15 PM 15-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-20082" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945527421020x576.jpg" group-title="Football", Cyrpus vs Montenegro - MATCHDAY 6 - UEFA Nations League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-20081" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945525671020x576.jpg" group-title="Football", Latvia vs Armenia - MATCHDAY 6 - UEFA Nations League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-20191" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945615901020x576.jpg" group-title="Horse Riding", Qualifier Leg - Stuttgart (GER) - Qualifier - Longines FEI Jumping World Cup 2026
 https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 #EXTINF:-1 tvg-id="Xi_Ga5oBNnOkwJLWkhKP" tvg-name="Somoy TV" tvg-logo="https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="Toffee",Somoy TV
@@ -481,8 +477,8 @@ https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/gbxtrugg
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:50:35 PM 15-11-2026
-#EXTINF:-1 tvg-id="sonyliv-1090554015" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027715/1793198605065884_UNL26_MD6_Latvia_vs_Armenia_landscape_thumb.jpg" group-title="Football", Latvia vs Armenia | UEFA Nations League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa270prod-PlaybackConfig/2120303/Footlive1511/ENG/master.m3u8?hdnea=exp=1794792058~acl=/*~id=66257252883334084836907359682890~hmac=f933eede56438c5ee6555eda4b21c3aab77da44094fb98b29e24df899f0c2d67
-#EXTINF:-1 tvg-id="sonyliv-1090554016" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027754/1793248801127967_UNL26_MD6_Cyprus_vs_Montenegro_landscape_thumb.jpg" group-title="Football", Cyprus vs Montenegro | UEFA Nations League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7a8bprod-PlaybackConfig/2120302/Footlive1511/ENG/master.m3u8?hdnea=exp=1794792058~acl=/*~id=66257252883334084836907359682890~hmac=f933eede56438c5ee6555eda4b21c3aab77da44094fb98b29e24df899f0c2d67
+# last_update: 10:20:34 PM 15-11-2026
+#EXTINF:-1 tvg-id="sonyliv-1090554017" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027773/1793249866500892_UNL26_MD6_Finland_vs_San_Marino_landscape_thumb.jpg" group-title="Football", Finland vs San Marino | UEFA Nations League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0518prod-PlaybackConfig/2120305/Footlive1511/ENG/master.m3u8?hdnea=exp=1794802853~acl=/*~id=15710501559089552022470012723872~hmac=92f3f5a9284380bfdb3470fcac973c8c2b99a8f4539a9424d9d14387ae8c3580
+#EXTINF:-1 tvg-id="sonyliv-1090554018" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027747/1793250451231217_UNL26_MD6_Belarus_vs_Albania_landscape_thumb.jpg" group-title="Football", Belarus vs Albania | UEFA Nations League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe7d9prod-PlaybackConfig/2120304/Footlive1511/ENG/master.m3u8?hdnea=exp=1794802853~acl=/*~id=15710501559089552022470012723872~hmac=92f3f5a9284380bfdb3470fcac973c8c2b99a8f4539a9424d9d14387ae8c3580

@@ -1,17 +1,15 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 08:00 PM 15-11-2026
+# Last Update: 08:15 PM 15-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-19115" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17938657031020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - 2nd Test - Afghanistan vs Zimbabwe 2026 - Server 1
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19115" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17938657031020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - 2nd Test - Afghanistan vs Zimbabwe 2026 - Server 2
-https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-20082" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945527421020x576.jpg" group-title="Football", Cyrpus vs Montenegro - MATCHDAY 6 - UEFA Nations League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-20081" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945525671020x576.jpg" group-title="Football", Latvia vs Armenia - MATCHDAY 6 - UEFA Nations League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20191" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945615901020x576.jpg" group-title="Horse Riding", Qualifier Leg - Stuttgart (GER) - Qualifier - Longines FEI Jumping World Cup 2026
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 #EXTINF:-1 tvg-id="Xi_Ga5oBNnOkwJLWkhKP" tvg-name="Somoy TV" tvg-logo="https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="Toffee",Somoy TV
 https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?edge-cache-token=Expires=1794740423~Starts=1794736823~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiN2Q2ZmUxMWItNzA1YS00YWQ1LWEwZjctMzkzNDg1MTRlOWQ3In0~Signature=5y0Utitx0GEMuiT-uyRRuHEudDsR5jFLGA-Iy2-4YuJrUw_esdNwZqhc2-w8xjdNdrw3FYWYXJQNs8sbXzgBAA
 #EXTINF:-1 tvg-id="kK2aX5UBrjBfS2_RBcKf" tvg-name="Zee Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="Toffee",Zee Bangla
@@ -477,7 +475,7 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapix
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:50:32 PM 15-11-2026
+# last_update: 08:20:33 PM 15-11-2026
 #EXTINF:-1 tvg-id="sonyliv-1090554015" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027715/1793198605065884_UNL26_MD6_Latvia_vs_Armenia_landscape_thumb.jpg" group-title="Football", Latvia vs Armenia | UEFA Nations League 2026-27 [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa270prod-PlaybackConfig/2120303/Footlive1511/ENG/master.m3u8?hdnea=exp=1794792058~acl=/*~id=66257252883334084836907359682890~hmac=f933eede56438c5ee6555eda4b21c3aab77da44094fb98b29e24df899f0c2d67
 #EXTINF:-1 tvg-id="sonyliv-1090554016" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027754/1793248801127967_UNL26_MD6_Cyprus_vs_Montenegro_landscape_thumb.jpg" group-title="Football", Cyprus vs Montenegro | UEFA Nations League 2026-27 [English]

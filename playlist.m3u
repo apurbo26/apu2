@@ -1,17 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 04:00 AM 16-11-2026
+# Last Update: 04:15 AM 16-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-20088" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945555711020x576.jpg" group-title="Football", Spain vs England - MATCHDAY 6 - UEFA Nations League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-20087" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945554581020x576.jpg" group-title="Football", Croatia vs Czechia - MATCHDAY 6 - UEFA Nations League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-20086" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945552511020x576.jpg" group-title="Football", Belgium vs Italy - MATCHDAY 6 - UEFA Nations League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-20085" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945551261020x576.jpg" group-title="Football", France vs Turkiye - MATCHDAY 6 - UEFA Nations League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 #EXTINF:-1 tvg-id="Xi_Ga5oBNnOkwJLWkhKP" tvg-name="Somoy TV" tvg-logo="https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="Toffee",Somoy TV
 https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?edge-cache-token=Expires=1794769228~Starts=1794765628~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiN2Q2ZmUxMWItNzA1YS00YWQ1LWEwZjctMzkzNDg1MTRlOWQ3In0~Signature=3ThV2dYo6LUd3A0OwODA2UipXoa944uK-GBJgUb1_OQ2AatM5tWRcdKGDtvZd6szPE5EexJJLb-jnV-R5khnBw
 #EXTINF:-1 tvg-id="kK2aX5UBrjBfS2_RBcKf" tvg-name="Zee Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="Toffee",Zee Bangla
@@ -477,6 +469,4 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:50:34 AM 16-11-2026
-#EXTINF:-1 tvg-id="sonyliv-1090554022" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027854/1793254550038497_UNL26_MD6_Spain_vs_England_landscape_thumb.jpg" group-title="Football", Spain vs England | UEFA Nations League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT545eprod-PlaybackConfig/2094588/footlive1511/ENG/master.m3u8?hdnea=exp=1794813648~acl=/*~id=96563552346942670061411038702564~hmac=1098b86461037cc8993840fbee9e5e472dbe96ba023d0b50c85e0cb35da1a1ba
+# last_update: 04:20:32 AM 16-11-2026

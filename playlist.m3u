@@ -1,19 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 04:15 AM 17-11-2026
+# Last Update: 04:30 AM 17-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-20098" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945687871020x576.jpg" group-title="Football", Greece vs Serbia - MATCHDAY 6 - UEFA Nations League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-20097" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945649221020x576.jpg" group-title="Football", North Macedonia vs Slovenia - MATCHDAY 6 - UEFA Nations League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-20096" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945647251020x576.jpg" group-title="Football", Switzerland vs Scotland - MATCHDAY 6 - UEFA Nations League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-20095" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945645941020x576.jpg" group-title="Football", Gibraltar vs Malta - MATCHDAY 6 - UEFA Nations League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-20094" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945644181020x576.jpg" group-title="Football", Germany vs Netherlands - MATCHDAY 6 - UEFA Nations League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
 #EXTINF:-1 tvg-id="Xi_Ga5oBNnOkwJLWkhKP" tvg-name="Somoy TV" tvg-logo="https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="Toffee",Somoy TV
 https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?edge-cache-token=Expires=1794868222~Starts=1794864622~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiN2Q2ZmUxMWItNzA1YS00YWQ1LWEwZjctMzkzNDg1MTRlOWQ3In0~Signature=2QqkNitJZQdUyS5Zc-tqRaflAMfDMTCJdtzBwtgtH9q2Ac7_o0pDbiyUi7yfbUU3SxuFFxh1TML_YbrUTQvOBg
 #EXTINF:-1 tvg-id="kK2aX5UBrjBfS2_RBcKf" tvg-name="Zee Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="Toffee",Zee Bangla

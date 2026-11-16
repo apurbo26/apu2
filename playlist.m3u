@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:30 PM 16-11-2026
+# Last Update: 10:45 PM 16-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -8,6 +8,12 @@
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-20089" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945557551020x576.jpg" group-title="Football", Kazakhstan vs Slovakia - MATCHDAY 6 - UEFA Nations League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20093" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945562711020x576.jpg" group-title="Football", Iceland vs Luxembourg - MATCHDAY 6 - UEFA Nations League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20092" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945561431020x576.jpg" group-title="Football", Lithuania vs Liechtenstein - MATCHDAY 6 - UEFA Nations League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20091" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945560101020x576.jpg" group-title="Football", Estonia vs Bulgaria - MATCHDAY 6 - UEFA Nations League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
 #EXTINF:-1 tvg-id="Xi_Ga5oBNnOkwJLWkhKP" tvg-name="Somoy TV" tvg-logo="https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="Toffee",Somoy TV
 https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?edge-cache-token=Expires=1794828621~Starts=1794825021~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiN2Q2ZmUxMWItNzA1YS00YWQ1LWEwZjctMzkzNDg1MTRlOWQ3In0~Signature=ear6r3nZ1R8WJQhLi2qi6fMqX4ZZOefncGz6fvEYrVFqlaAb0g8zAGpwIXQPhThtibEZVwsZagfANF-2ciEkCA
 #EXTINF:-1 tvg-id="kK2aX5UBrjBfS2_RBcKf" tvg-name="Zee Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="Toffee",Zee Bangla
@@ -443,7 +449,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d3jglp2mqj/
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:20:33 PM 16-11-2026
+# last_update: 10:50:42 PM 16-11-2026
 #EXTINF:-1 tvg-id="sonyliv-1090554435" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027772/1793257474667102_UNL26_MD6_Faroe_Islands_vs_Moldova_landscape_thumb.jpg" group-title="Football", Faroe Islands vs Moldova | UEFA Nations League 2026-27 [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT37d2prod-PlaybackConfig/2120299/footlive1611/ENG/master.m3u8?hdnea=exp=1794882051~acl=/*~id=89600579731469522688731707985924~hmac=7535615b0b8bb37777aeb212c3e64fea36931cb5090cdc84e51e606be877f5e7
 #EXTINF:-1 tvg-id="sonyliv-1090554453" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027833/179325832303640_UNL26_MD6_Kazakhstan_vs_Slovakia_landscape_thumb.jpg" group-title="Football", Kazakhstan vs Slovakia | UEFA Nations League 2026-27 [English]

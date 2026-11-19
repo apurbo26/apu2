@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:30 AM 19-11-2026
+# Last Update: 10:45 AM 19-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -12,6 +12,8 @@ https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19065" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945538171020x576.jpg" group-title="Cricket", New Zealand vs India - 1st Test - India Tour of New Zealand 2026 - Server 2
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19203" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948121841020x576.jpg" group-title="Cricket", Hobart Hurricanes vs Perth Scorchers - Group Stage - Women's Big Bash League 2026
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 tvg-id="Xi_Ga5oBNnOkwJLWkhKP" tvg-name="Somoy TV" tvg-logo="https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="Toffee",Somoy TV
 https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?edge-cache-token=Expires=1795066221~Starts=1795062621~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiN2Q2ZmUxMWItNzA1YS00YWQ1LWEwZjctMzkzNDg1MTRlOWQ3In0~Signature=67w_pO4toeNaM7ZkpPLAJqvc5PwLGHhgZxqwuBFwintHA0q0s8b3ShRN70bdXLUytVOSgzzTqQQfQYiFMzEeBg
 #EXTINF:-1 tvg-id="kK2aX5UBrjBfS2_RBcKf" tvg-name="Zee Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="Toffee",Zee Bangla

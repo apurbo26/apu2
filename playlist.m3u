@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 08:30 PM 20-11-2026
+# Last Update: 08:45 PM 20-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -394,18 +394,722 @@ https://m3uworld4k.s.gy/awarapan2-hindi.mkv
 https://m3uworld4k.s.gy/awarapan2-hd.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg" group-title="Movies",Jana Nayagan (2026)
 https://m3uworld4k.s.gy/jana-nayagan-2026.mkv
-#EXTINF:-1 tvg-id="sonyliv-1090553578" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793257198950508_UNL26_MD5_Italy-vs-France_live_landscape_thumb.jpg" group-title="Football",Italy vs France | UEFA Nations League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa083prod-PlaybackConfig/2120306/Footlive1211/ENG/master.m3u8?hdnea=exp=1794556249~acl=/*~id=81716585149832399407756899124814~hmac=a29289a57db394e94b51daad778a82dc54545bf4ef8e3c313704d56e5aa97648
-#EXTINF:-1 tvg-id="sonyliv-1090553579" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027677/1793257674840871_UNL26_MD5_England-vs-Croatia_live_landscape_thumb.jpg" group-title="Football",England vs Croatia | UEFA Nations League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTf534prod-PlaybackConfig/2120307/Footlive1211/ENG/master.m3u8?hdnea=exp=1794554470~acl=/*~id=80337503855843114229189321917350~hmac=69ea99a8c32ca5ef8c724be8767c5bc3c739dfb11569e4df9898ee1090d7e687
-#EXTINF:-1 tvg-id="sonyliv-1090553573" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793254891164508_UNL26_MD5_Czechia-vs-Spain_live_landscape_thumb.jpg" group-title="Football",Czechia vs Spain | UEFA Nations League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5fecprod-PlaybackConfig/2120304/Footlive1211/ENG/master.m3u8?hdnea=exp=1794554470~acl=/*~id=80337503855843114229189321917350~hmac=69ea99a8c32ca5ef8c724be8767c5bc3c739dfb11569e4df9898ee1090d7e687
-#EXTINF:-1 tvg-id="sonyliv-1090553576" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793255552146508_UNL26_MD5_Montenegro-vs-Latvia_live_landscape_thumb.jpg" group-title="Football",Montenegro vs Latvia | UEFA Nations League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTaf23prod-PlaybackConfig/2120305/Footlive1211/ENG/master.m3u8?hdnea=exp=1794554470~acl=/*~id=80337503855843114229189321917350~hmac=69ea99a8c32ca5ef8c724be8767c5bc3c739dfb11569e4df9898ee1090d7e687
-#EXTINF:-1 tvg-id="sonyliv-1090553575" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793255214156508_UNL26_MD5_Albania-vs-Finland_live_landscape_thumb.jpg" group-title="Football",Albania vs Finland | UEFA Nations League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT1477prod-PlaybackConfig/2120308/Footlive1211/ENG/master.m3u8?hdnea=exp=1794554470~acl=/*~id=80337503855843114229189321917350~hmac=69ea99a8c32ca5ef8c724be8767c5bc3c739dfb11569e4df9898ee1090d7e687
-#EXTINF:-1 tvg-id="sonyliv-1090553577" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793256942014508_UNL26_MD5_San-Marino-vs-Belarus_live_landscape_thumb.jpg" group-title="Football",San Marino vs Belarus | UEFA Nations League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT6d22prod-PlaybackConfig/2005444/Footlive1211/ENG/master.m3u8?hdnea=exp=1794554470~acl=/*~id=80337503855843114229189321917350~hmac=69ea99a8c32ca5ef8c724be8767c5bc3c739dfb11569e4df9898ee1090d7e687
+#EXTINF:-1 tvg-id="sonyliv-1090555014" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029334/1794691072000564_ISL26_Bengaluru_FC_vs_Mumbai_City_FC_live_landscape_thumb.jpg" group-title="Football",Bengaluru FC vs Mumbai City FC | MG Indian Super League 2026-27 [English]
+https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive2011/ENG/master.m3u8?hdnea=exp=1795225854~acl=/*~id=87823121889697488567454630790877~hmac=69da7916dc99bacee44ab73a76e94ac71e2508921e28592b0d63bf7a297ca400
+#EXTINF:-1 tvg-id="sonyliv-1090555014" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029334/1794691072000564_ISL26_Bengaluru_FC_vs_Mumbai_City_FC_live_landscape_thumb.jpg" group-title="Football",Bengaluru FC vs Mumbai City FC | MG Indian Super League 2026-27 [Hindi]
+https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive2011/HIN/master.m3u8?hdnea=exp=1795225854~acl=/*~id=87823121889697488567454630790877~hmac=69da7916dc99bacee44ab73a76e94ac71e2508921e28592b0d63bf7a297ca400
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Star Jalsha" group-title="Indian",Star Jalsha
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Awaaz India" group-title="Indian",Awaaz India
+http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Hindi Hits HD" group-title="Indian",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Sony TV HD" group-title="Indian",Sony TV HD
+https://www.cloudflare-terms-of-service-abuse.com/stream.ts#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="ENT | DD National HD" group-title="Indian",ENT | DD National HD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="History TV18 HD Hindi" group-title="Indian",History TV18 HD Hindi
+https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="NEWS | Aaj Tak HD" group-title="Indian",NEWS | Aaj Tak HD
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="NEWS | Aap Ki Adalat" group-title="Indian",NEWS | Aap Ki Adalat
+https://amg01550-indiatv-indiatv-aapkiadalat-mi-xiaomi-n5tuk.amagi.tv/ts-ap-s1-n1/playlist/amg01550-indiatv-indiatv-aapkiadalat-mi-xiaomi/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="NEWS | ABP News" group-title="Indian",NEWS | ABP News
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="NEWS | DD INDIA" group-title="Indian",NEWS | DD INDIA
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="NEWS | India Today" group-title="Indian",NEWS | India Today
+https://d2lk5u59tns74c.cloudfront.net/out/v1/d4435039c7d1433d9b9d0b6cdc9dd4ff/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="NEWS | India TV" group-title="Indian",NEWS | India TV
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="NEWS | India TV Speed News" group-title="Indian",NEWS | India TV Speed News
+https://amg01550-indiatv-indiatv-speed-mi-xiaomi-zgmaw.amagi.tv/ts-ap-s1-n1/playlist/amg01550-indiatv-indiatv-speed-mi-xiaomi/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="NEWS | NDTV English" group-title="Indian",NEWS | NDTV English
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="NEWS | NDTV Hindi" group-title="Indian",NEWS | NDTV Hindi
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="NEWS | Republic Bharat" group-title="Indian",NEWS | Republic Bharat
+https://d2lk5u59tns74c.cloudfront.net/out/v1/7e8b490d6b9c4013a3e3e874aa352212/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="NEWS | Republic TV" group-title="Indian",NEWS | Republic TV
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="PAN | PTC PUNJABI" group-title="Indian",PAN | PTC PUNJABI
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="PAN | PTC PUNJABI GOLD" group-title="Indian",PAN | PTC PUNJABI GOLD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="IN | ABP Ananda" group-title="Indian",IN | ABP Ananda
+https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="XXTreme Jobs Hindi" group-title="Indian",XXTreme Jobs Hindi
+https://cc-zko1curyce7jh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zko1curyce7jh/IQJW/WBD/XXtremeJobs_IN/XXtremeJobs_IN.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Ekushey TV" group-title="Bangladeshi",Ekushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Bangla Natok" group-title="Bangladeshi",Bangla Natok
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Deshe Bideshe" group-title="Bangladeshi",Deshe Bideshe
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Channel I" group-title="Bangladeshi",Channel I
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="NTV" group-title="Bangladeshi",NTV
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/mono.ts.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Bangla Vision" group-title="Bangladeshi",Bangla Vision
+https://tvsen5.aynaott.com/banglavision/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="RTV" group-title="Bangladeshi",RTV
+https://tvsen5.aynaott.com/RtvHD/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="ATN Bangla" group-title="Bangladeshi",ATN Bangla
+https://tvsen5.aynaott.com/atnbangla/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Maasranga TV" group-title="Bangladeshi",Maasranga TV
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Deepto TV" group-title="Bangladeshi",Deepto TV
+https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Ekhon TV" group-title="Bangladeshi",Ekhon TV
+https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="SA TV" group-title="Bangladeshi",SA TV
+https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Asian TV" group-title="Bangladeshi",Asian TV
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Duronto TV" group-title="Bangladeshi",Duronto TV
+https://tvsen5.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.fmp4.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MADANI TV" group-title="Bangladeshi",MADANI TV
+https://tvsen7.aynaott.com/MadaniTV/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Bangla TV" group-title="Bangladeshi",Bangla TV
+https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Desh TV" group-title="Bangladeshi",Desh TV
+https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Boishakhi TV" group-title="Bangladeshi",Boishakhi TV
+https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Mohona TV" group-title="Bangladeshi",Mohona TV
+https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="NEXUS TV" group-title="Bangladeshi",NEXUS TV
+https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Bijoy TV" group-title="Bangladeshi",Bijoy TV
+https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Global TV" group-title="Bangladeshi",Global TV
+https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="My TV" group-title="Bangladeshi",My TV
+https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Ananda TV" group-title="Bangladeshi",Ananda TV
+https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="BTV CTG" group-title="Bangladeshi",BTV CTG
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Channel S" group-title="Bangladeshi",Channel S
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="ASIAN TV" group-title="Bangladeshi",ASIAN TV
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="ATN Bangla UK" group-title="Bangladeshi",ATN Bangla UK
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="BANGLA TV" group-title="Bangladeshi",BANGLA TV
+https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="BANGLA VISION" group-title="Bangladeshi",BANGLA VISION
+https://tvsen5.aynaott.com/banglavision/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="BIJOY TV" group-title="Bangladeshi",BIJOY TV
+https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Enter TV" group-title="Bangladeshi",Enter TV
+https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Enter10 Bangla HD" group-title="Bangladeshi",Enter10 Bangla HD
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="GAZI TV HD" group-title="Bangladeshi",GAZI TV HD
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="iON TV" group-title="Bangladeshi",iON TV
+https://app.ncare.live/live-orgin/iontvuk.stream/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Jankhar TV" group-title="Bangladeshi",Jankhar TV
+https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="NTV HD" group-title="Bangladeshi",NTV HD
+https://tvsen5.aynaott.com/JHPxHAWonztVucyc4GzF/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="NTV TV UK" group-title="Bangladeshi",NTV TV UK
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="R Plus Gold" group-title="Bangladeshi",R Plus Gold
+https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Jamuna TV" group-title="Bangladeshi",Jamuna TV
+https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Ekattor TV" group-title="Bangladeshi",Ekattor TV
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="News 24 BD" group-title="Bangladeshi",News 24 BD
+https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="DBC News" group-title="Bangladeshi",DBC News
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Bloomberg TV" group-title="Bangladeshi",Bloomberg TV
+https://tvsen6.aynaott.com/bloombergtv/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="ATN News" group-title="Bangladeshi",ATN News
+https://tvsen6.aynaott.com/da6WMXAk/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Rongeen TV" group-title="Bangladeshi",Rongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="0. Baby Shark TV" group-title="Bangladeshi",0. Baby Shark TV
+https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="World War TV" group-title="Bangladeshi",World War TV
+https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Azan TV" group-title="Bangladeshi",Azan TV
+https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="IQRA BANGLA" group-title="Bangladeshi",IQRA BANGLA
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | Stingray Remember the 80s" group-title="Bangladeshi",EN | Stingray Remember the 80s
+https://d1imh73yrie9zu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tqikpnjgwyvj8/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="R Plus" group-title="Bangladeshi",R Plus
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="DD Bangla" group-title="Bangladeshi",DD Bangla
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Enter 10 Bangla" group-title="Bangladeshi",Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Sananda TV" group-title="Bangladeshi",Sananda TV
+http://27.124.71.27/Zee_Bangla/tracks-v1a1/mono.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Nexus TV (576p)" group-title="Bangladeshi",Nexus TV (576p)
+https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Maasranga TV (720p)" group-title="Bangladeshi",Maasranga TV (720p)
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="NTV (720p)" group-title="Bangladeshi",NTV (720p)
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Duronto TV (720p)" group-title="Bangladeshi",Duronto TV (720p)
+https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="RTV (720p)" group-title="Bangladeshi",RTV (720p)
+https://tvsen5.aynaott.com/RtvHD/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Ekushey TV (480p)" group-title="Bangladeshi",Ekushey TV (480p)
+https://ekusheyserver.com/etvlivesn.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="BTV Chattogram" group-title="Bangladeshi",BTV Chattogram
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MU | NH BollyRaga" group-title="Bangladeshi",MU | NH BollyRaga
+https://cc-up9j649x4thrj.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/SBUM/RunnTV/BollyRaga_IN/BollyRaga_IN.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="BD | DBC NEWS HD" group-title="Bangladeshi",BD | DBC NEWS HD
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="BD | JAMUNA TV" group-title="Bangladeshi",BD | JAMUNA TV
+https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="IN | Bangla Jago TV" group-title="Bangladeshi",IN | Bangla Jago TV
+http://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="IN | News18 Bangla" group-title="Bangladeshi",IN | News18 Bangla
+https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Outdoor Channel" group-title="Bangladeshi",Outdoor Channel
+https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Zed business" group-title="General",Zed business
+https://dwby15d04agvq.cloudfront.net/index_5.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Manoranjan" group-title="General",Manoranjan
+https://mumt06.tangotv.in/qYyB8fXVMANORANJANPRIME/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Red Bull TV" group-title="General",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="ETV" group-title="General",ETV
+https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Drama 24" group-title="General",Drama 24
+https://vods2.aynaott.com/gseriesDrama/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="BHI Channel" group-title="General",BHI Channel
+https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Channel 52" group-title="General",Channel 52
+http://str24.l9574.com/503.stream/tracks-v1a1/mono.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MU | ZB Music" group-title="General",MU | ZB Music
+https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="NRB HD TV" group-title="General",NRB HD TV
+https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="PROBASHI TV" group-title="General",PROBASHI TV
+http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Time Televis HD" group-title="General",Time Televis HD
+https://app.ncare.live/live-orgin/timetvusa.stream/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Horse & Country" group-title="General",Horse & Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="FIGHT | FIGHT NETWORK" group-title="General",FIGHT | FIGHT NETWORK
+https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="FIGHT | PFL" group-title="General",FIGHT | PFL
+https://d2w9b8sam7j3zv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5g55ahrn9ajah/v1/pfl_pflmma_1/samsungheadend_us/latest/main/hls/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="GOLF | GOLFPASS" group-title="General",GOLF | GOLFPASS
+https://d2icntm6fhxrry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-egqimi4i6n3rh/master.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MIXER | Red Bull TV UK" group-title="General",MIXER | Red Bull TV UK
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MIXER | Redbull TV" group-title="General",MIXER | Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MIXER | Strongman Champions League" group-title="General",MIXER | Strongman Champions League
+https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="RACING | Hagerty" group-title="General",RACING | Hagerty
+https://dqw6u0upa8l21.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0etl87ne2tj77/Hagerty.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="CNN" group-title="General",CNN
+https://tvsen6.aynaott.com/cnn/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="DW News" group-title="General",DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="CNBC TV" group-title="General",CNBC TV
+https://tvsen6.aynaott.com/cnbc/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Wion" group-title="General",Wion
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="AccuWeather" group-title="General",AccuWeather
+https://amg00684-accuweather-accuweather-plex-jbd2s.amagi.tv/playlist/amg00684-accuweather-accuweather-plex/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="News Nation" group-title="General",News Nation
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Probashi TV News (1080p)" group-title="General",Probashi TV News (1080p)
+http://158.69.24.53:8080/probashi_tv/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Moonbug Kids" group-title="General",Moonbug Kids
+https://tvsen6.aynaott.com/MoonbugKids/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="3ABN Kids" group-title="General",3ABN Kids
+https://tvsen6.aynaott.com/3abnkids/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="PBS Kids" group-title="General",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="0. All Babies Channel" group-title="General",0. All Babies Channel
+https://d390zi2w1jc4t4.cloudfront.net/master.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="0. Disney Channel Latin America" group-title="General",0. Disney Channel Latin America
+http://45.166.93.156:9999/play/a0f3/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="0. Disney Jr." group-title="General",0. Disney Jr.
+http://190.93.224.42/DISNEY-JR/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="0. Knowledge Network" group-title="General",0. Knowledge Network
+https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="0. Lego Channel" group-title="General",0. Lego Channel
+https://dltiqboxjw21d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evri8jwgwmxus/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="0. Mattel Jr." group-title="General",0. Mattel Jr.
+https://dc6v647pwrp79.cloudfront.net/matjr.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="0. Moonbug" group-title="General",0. Moonbug
+https://dq2a9ghraf7sw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zxq18dopv0o6q/Moonbug.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="0. Sonic The Hedgehog" group-title="General",0. Sonic The Hedgehog
+https://dtwdcugadwtnw.cloudfront.net/master.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="0. Strawberry Shortcake" group-title="General",0. Strawberry Shortcake
+https://d10c3fwb9yju0h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5zgefp9c8p0b/master.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="0. Tiny POP" group-title="General",0. Tiny POP
+https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="0. Toon Goggles" group-title="General",0. Toon Goggles
+https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4b1bzxkt1uzo-prod/tg/tg/tg.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="0. Toon Goggles Junior" group-title="General",0. Toon Goggles Junior
+https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="0. ToonGoggles" group-title="General",0. ToonGoggles
+https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="1. Duck TV" group-title="General",1. Duck TV
+https://d6lk10bkdgfae.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n0stmvwxmsf5c/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="1. Hot Wheels Action" group-title="General",1. Hot Wheels Action
+https://dtz4aepbew7ez.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j02089jh4uhwc/hotwh.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="1. KidDo MATIX" group-title="General",1. KidDo MATIX
+https://cc-le0kohm4qt3mk.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-le0kohm4qt3mk/OTM/OTM_KiddoMatix-SCTE_SAMSUNG/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="1. MBC 3 USA" group-title="General",1. MBC 3 USA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="1. Smurf TV" group-title="General",1. Smurf TV
+https://d144py1prrd7ns.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/smrfe.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="1. TG Junior" group-title="General",1. TG Junior
+https://d3i6upqaqzosi1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9k42dil136v1e-prod/tg/jr_us/tg_jr_us.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="1. The LEGO Channel" group-title="General",1. The LEGO Channel
+https://dh18i7whff86v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pslwq5nud9zg9/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="1. Tooku" group-title="General",1. Tooku
+http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="1. ZOO MOO" group-title="General",1. ZOO MOO
+https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="2. POP" group-title="General",2. POP
+https://amg01753-narrativeentert-popkids-samsunguk-yjjil.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-samsunguk/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="2. Powerkids Kartoon Channel" group-title="General",2. Powerkids Kartoon Channel
+https://cc-j2qrmdlg5y7lg.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j2qrmdlg5y7lg/powerkids.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="2. Strawberry Shortcake" group-title="General",2. Strawberry Shortcake
+https://d10c3fwb9yju0h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5zgefp9c8p0b/master.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="2. Teletubbies" group-title="General",2. Teletubbies
+https://dv8lsrd8fecw9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dkls74gdpo7r0/master.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="2. The Jungle Book" group-title="General",2. The Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="ADN TV+" group-title="General",ADN TV+
+https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Barbie and Friends" group-title="General",Barbie and Friends
+https://d1xqdnwy1bo05f.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jh1ol665g3amg/barb.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Kartoon Channel!" group-title="General",Kartoon Channel!
+https://d2z0ysa6dgxhlc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ajxyy4yaic6nq/kchan.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="RetroCrush" group-title="General",RetroCrush
+https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Toonami Aftermath East" group-title="General",Toonami Aftermath East
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Солнце" group-title="General",Солнце
+http://tv.mediacdn.ru/live/solntse/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Taaza TV" group-title="General",Taaza TV
+https://tvsen7.aynaott.com/TaazaTV/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Court TV" group-title="General",Court TV
+https://amg01438-ewscrippscompan-courttv-tablo-nbcc7.amagi.tv/playlist/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="CMAC TV" group-title="General",CMAC TV
+https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Wild TV" group-title="General",Wild TV
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="RDS Social TV" group-title="General",RDS Social TV
+https://tvsen6.aynaott.com/RDSSocialTV/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Al Quran Al Kareem TV" group-title="General",Al Quran Al Kareem TV
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="IBN TV" group-title="General",IBN TV
+http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="IBN TV Africa" group-title="General",IBN TV Africa
+http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Madina live" group-title="General",Madina live
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Music TV" group-title="General",Music TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="YRF Music" group-title="General",YRF Music
+https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="AR | Arabica TV" group-title="General",AR | Arabica TV
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | Dance TV" group-title="General",EN | Dance TV
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | GROOVE" group-title="General",EN | GROOVE
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | Kronehit HD" group-title="General",EN | Kronehit HD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | NOW 70s" group-title="General",EN | NOW 70s
+https://rakutenaa-lightning-now70s-rakuten-t8535.amagi.tv/playlist/rakutenAA-lightning-now70s-rakuten/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | NOW 80's" group-title="General",EN | NOW 80's
+https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | Now Rock" group-title="General",EN | Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | TRACE UK" group-title="General",EN | TRACE UK
+https://d2l4tng0wskzvn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i4w0aagbo260c/Trace_GB.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | Trace Urban" group-title="General",EN | Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | Vevo '70s & '80s" group-title="General",EN | Vevo '70s & '80s
+https://d38e11bvtr8xdq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jlzlygsoesvmj/Vevo70sand80s_GB.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | Vevo Pop" group-title="General",EN | Vevo Pop
+https://d2n3779oy6efpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5rxuagztow0k3/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | XITE" group-title="General",EN | XITE
+https://xite-rakuten.amagi.tv/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | XITE Hits" group-title="General",EN | XITE Hits
+https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/ts-eu-w1-n2/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="LT | Trace Latino" group-title="General",LT | Trace Latino
+https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="OTHER | 1Mus" group-title="General",OTHER | 1Mus
+http://hz1.teleport.cc/HLS/HD.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="OTHER | Afrobeats" group-title="General",OTHER | Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="OTHER | MAD" group-title="General",OTHER | MAD
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="OTHER | Teleritmo" group-title="General",OTHER | Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="TR | Top TV" group-title="General",TR | Top TV
+http://74.208.199.212:8081/TopTV/live/chunks.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="kolkata TV" group-title="General",kolkata TV
+https://tvsen6.aynaott.com/kolkatatv/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Peoples Radio" group-title="General",Peoples Radio
+http://s3.myradiostream.com:14498/;stream.mp3#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Relaks Radio" group-title="General",Relaks Radio
+http://stream.spicefmbd.com/stream.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Radio BBC" group-title="General",Radio BBC
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_vlow_sbr_v1/cfs/bbc_world_service_news_internet.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Deshi TV (720p)" group-title="General",Deshi TV (720p)
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Ekushe ETV" group-title="General",Ekushe ETV
+https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Pardesi TV" group-title="General",Pardesi TV
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="ENG | SANSAD TV 1" group-title="General",ENG | SANSAD TV 1
+https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="ENG | SANSAD TV 2" group-title="General",ENG | SANSAD TV 2
+https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="ENT | Channel Y" group-title="General",ENT | Channel Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="ENT | DANGAL 2" group-title="General",ENT | DANGAL 2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="ENT | Dangal TV" group-title="General",ENT | Dangal TV
+https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="ENT | DD Bharati" group-title="General",ENT | DD Bharati
+https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="ENT | DD URDU" group-title="General",ENT | DD URDU
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="ENT | E24" group-title="General",ENT | E24
+https://amg13643-amg13643c2-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c2-amgplt0016/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="ENT | Epic TV" group-title="General",ENT | Epic TV
+https://epiconvh.akamaized.net/live/epic/master.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="ENT | Nazara" group-title="General",ENT | Nazara
+https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="ENT | Sony Entertainment" group-title="General",ENT | Sony Entertainment
+http://38.96.178.205/SONYHD/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Kadak" group-title="General",Kadak
+https://n18syndication.akamaized.net/bpk-tv/Kadak_NW18_MOB/output01/master.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MOV | B4U Kadak" group-title="General",MOV | B4U Kadak
+https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MOV | South Station" group-title="General",MOV | South Station
+https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MU | 9X Jalwa" group-title="General",MU | 9X Jalwa
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/70fca4d1-156e-4c03-baa4-9a4b602e33d5/0.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MU | 9X JHAKAAS" group-title="General",MU | 9X JHAKAAS
+https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MU | 9X TASHAN" group-title="General",MU | 9X TASHAN
+https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MU | 9XM" group-title="General",MU | 9XM
+https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MU | Desi Channel" group-title="General",MU | Desi Channel
+https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MU | Only Music" group-title="General",MU | Only Music
+https://mumbai-edge.smartplaytv.in/OnlyMusic/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MU | Pitaara TV" group-title="General",MU | Pitaara TV
+https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MU | PTC Music" group-title="General",MU | PTC Music
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MU | Saga Music" group-title="General",MU | Saga Music
+https://amg01412-xiaomiasia-sagamusic-xiaomi-h54ye.amagi.tv/playlist/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MU | Saga Music Haryanvi" group-title="General",MU | Saga Music Haryanvi
+https://amg01412-xiaomiasia-sagamusicharyanvi-xiaomi-0v34j.amagi.tv/playlist/amg01412-xiaomiasia-sagamusicharyanvi-xiaomi/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MU | YRF Music" group-title="General",MU | YRF Music
+https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MU | Zoom" group-title="General",MU | Zoom
+https://dai.google.com/linear/hls/pb/event/JCAm25qkRXiKcK1AJMlvKQ/stream/21aaba41-c8ff-4fda-ab4f-b584bf423283:SIN/master.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="NEWS | Bharat 24" group-title="General",NEWS | Bharat 24
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2774c390ad884e06a7b0257c8489e23d/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="NEWS | CNBC Awaaz" group-title="General",NEWS | CNBC Awaaz
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="NEWS | CNBC TV18" group-title="General",NEWS | CNBC TV18
+https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="NEWS | CNN News18" group-title="General",NEWS | CNN News18
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="NEWS | DD News" group-title="General",NEWS | DD News
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="NEWS | IBC 24" group-title="General",NEWS | IBC 24
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0bfbd0b9de7f4407949202296560c0fe/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="NEWS | News24" group-title="General",NEWS | News24
+https://amg13643-amg13643c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c1-amgplt0016/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="NEWS | Times Now Navbharat" group-title="General",NEWS | Times Now Navbharat
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a5ee7c4e7a2a4b15a22a3bcf523b9776/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="NEWS | Zee Hindustan" group-title="General",NEWS | Zee Hindustan
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="NEWS | ZEE News" group-title="General",NEWS | ZEE News
+https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="BD | Jago News 24" group-title="General",BD | Jago News 24
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="BD | NEWS 24 Television" group-title="General",BD | NEWS 24 Television
+https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="BD | TBN 24 USA" group-title="General",BD | TBN 24 USA
+http://cdn01.palki.tv/live/TBN24-M/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="IN | Calcutta News" group-title="General",IN | Calcutta News
+https://legitpro.co.in/cnnnews/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="IN | High News" group-title="General",IN | High News
+http://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="IN | Kolkata Tv" group-title="General",IN | Kolkata Tv
+https://cdn.ottlive.co.in/kolkatatv/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="IN | Zee 24 Ghanta" group-title="General",IN | Zee 24 Ghanta
+https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="IN | Zillar Barta" group-title="General",IN | Zillar Barta
+https://server.zillarbarta.com/zillarbarta/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="ABC News Channel" group-title="General",ABC News Channel
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_6.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="ABC News in 90 Seconds" group-title="General",ABC News in 90 Seconds
+https://mediacore-live-production.akamaized.net/video/02/qj/Z/mj.mp4#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Arirang" group-title="General",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Channel News Asia" group-title="General",Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="CNN USA" group-title="General",CNN USA
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Connecting America" group-title="General",Connecting America
+https://amg00731-gannettcoinc-usatodaynews-plex-r45dz.amagi.tv/ts-us-e2-n1/playlist/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Fox News" group-title="General",Fox News
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Newsmax TV" group-title="General",Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="RT NEWS GLOBAL" group-title="General",RT NEWS GLOBAL
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="RT Now (Russia)" group-title="General",RT Now (Russia)
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Sky News" group-title="General",Sky News
+https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="YAHOO FINANCE" group-title="General",YAHOO FINANCE
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="YAHOO NEWS" group-title="General",YAHOO NEWS
+https://yahoo-samsung.amagi.tv/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="ENT | Tag TV" group-title="General",ENT | Tag TV
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="NEWS | ARY NEWS" group-title="General",NEWS | ARY NEWS
+https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695040da296/main.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="NEWS | Dunya News" group-title="General",NEWS | Dunya News
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="American Horrors" group-title="General",American Horrors
+http://107.167.7.162:8081/playlist/amhor/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | AMG TV (Classic)" group-title="General",EN | AMG TV (Classic)
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | Circle" group-title="General",EN | Circle
+https://circle-roku.amagi.tv/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | Great! romance" group-title="General",EN | Great! romance
+https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-greatchristmas-samsunguk/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | The Walking Dead Universe" group-title="General",EN | The Walking Dead Universe
+https://22985209144b4ff78289fbb19f55e93e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TWDUniverseExperience/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="OTHER | K Cine" group-title="General",OTHER | K Cine
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="60 Days In by A&E" group-title="General",60 Days In by A&E
+https://d2b8jic9gadlvy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kvf8znfz3byu4/v1/aenetworks_60daysin_1/samsungheadend_us/latest/main/hls/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Alone By History" group-title="General",Alone By History
+https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="BBC Earth" group-title="General",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Crime & Justice" group-title="General",Crime & Justice
+https://d1vsdt3c2xcxl2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h309rib7av3rk/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Deadly Women: powered by Banijay" group-title="General",Deadly Women: powered by Banijay
+https://d1mgh147xpmgs8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c1w8i9yzp8w93/DeadlyWomen_GB.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Discover Pakistan TV" group-title="General",Discover Pakistan TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Documentary+ USA" group-title="General",Documentary+ USA
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Get.Factual" group-title="General",Get.Factual
+https://d1nhni5l2n8hjt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rzh07me7cf8x7/gf.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Highway Thru Hell : Powered by Banijay" group-title="General",Highway Thru Hell : Powered by Banijay
+https://duplpbng64yvf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zep04k6ngk3x6/HighwayThruHell.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="History & Warfare Now" group-title="General",History & Warfare Now
+https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Now.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="History Hit" group-title="General",History Hit
+https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/ts-eu-w1-n2/playlist/ldsAAAAAA-timeline-samsung-uk/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="House of Crime" group-title="General",House of Crime
+https://cc-y2z89muounal4.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y2z89muounal4/IQJW/WBD/HouseOfCrime_IN/HouseOfCrime_IN.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Inside Crime" group-title="General",Inside Crime
+https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="INWILD" group-title="General",INWILD
+https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/ts-eu-w1-n2/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="INWILD DIGITAL/ OTT" group-title="General",INWILD DIGITAL/ OTT
+https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Mayday: Air Disaster" group-title="General",Mayday: Air Disaster
+https://d1vx4007e1im6x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dky7xycz2xs4b/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Mysteries Xplored" group-title="General",Mysteries Xplored
+https://dwqz6akge0ila.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lw48tj5rg6t4f/v1/aenetworks_mysteriesxplored_1/samsungheadend_us/latest/main/hls/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Mystery TV" group-title="General",Mystery TV
+https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Mythbusters" group-title="General",Mythbusters
+https://d1cgf0ptrv4t22.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xvoparaodgcw9/Mythbusters_GB.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="OuterSphere" group-title="General",OuterSphere
+https://d3o593mz1glx8d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/OuterSphere_US.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="REAL WILD" group-title="General",REAL WILD
+https://amg00426-littledotstudio-realwild-tcl-fzsi1.amagi.tv/playlist/amg00426-littledotstudio-realwild-tcl/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Robot Wars by Mech+" group-title="General",Robot Wars by Mech+
+https://0a644b20819046a0935afa1cf6debf23.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-gb_MechPlus/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Survivor" group-title="General",Survivor
+http://amg00627-banijaygroup-surviour-uk-samsunguk-uyz22.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijaygroup-survivor-samsunguk/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Unidentified" group-title="General",Unidentified
+https://d3ify425qsio2d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Unidentified-prod/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="WaterBear" group-title="General",WaterBear
+https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/ts-eu-w1-n2/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Wheel World" group-title="General",Wheel World
+https://cc-ii7599ywyixac.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ii7599ywyixac/IQJW/WBD/WheelWorld_IN/WheelWorld_IN.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Wild Earth" group-title="General",Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Wild Planet" group-title="General",Wild Planet
+https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Witness to Justice" group-title="General",Witness to Justice
+https://dxwldsv8fdzik.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l2dz2a7mdvmzc/v1/aenetworks_witnesstojustice_1/samsungheadend_us/latest/main/hls/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="America's Got Talent" group-title="General",America's Got Talent
+https://d2mexh8isep4mf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wp08v1ibrni4i/AmericasGotTalent_GB.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="American Idol" group-title="General",American Idol
+https://d2yn8dyffvmgy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2mt12zhezzrsh/AmericanIdol_GB.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Antiques Road Trip" group-title="General",Antiques Road Trip
+https://d3v8uchko88gmi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9435fptcvdedz/PBSART_GB.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Are We There Yet?" group-title="General",Are We There Yet?
+https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/ts-eu-w1-n2/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | Blues TV" group-title="General",EN | Blues TV
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | Brat TV" group-title="General",EN | Brat TV
+https://d14l10e3k15i6k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8qhn23nsa9o2l/Brat_TV.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | Channel 31" group-title="General",EN | Channel 31
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | Channel 44" group-title="General",EN | Channel 44
+https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | COURT TV" group-title="General",EN | COURT TV
+https://d2fm99ft1zcnjm.cloudfront.net/playlist/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="OTHER | Telemundo" group-title="General",OTHER | Telemundo
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Tipping Point" group-title="General",Tipping Point
+https://d3qecywadovut1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mzbml32mpwf83/TippingPointPoweredbyBanijay_GB.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="TVRI World" group-title="General",TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Wipeout Xtra Powered by Banijay" group-title="General",Wipeout Xtra Powered by Banijay
+https://d36nnn435goed2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skhf82opa3tf4/WipeoutXtraPoweredbyBanijay_GB.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Matribhumi TV (720p)" group-title="General",Matribhumi TV (720p)
+http://live.playmax.live/matribhumi/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="GoldMines" group-title="Movie",GoldMines
+https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Hindi Movie Classic 24" group-title="Movie",Hindi Movie Classic 24
+https://vods2.aynaott.com/hindimovies/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MOV | ZB Cinema" group-title="Movie",MOV | ZB Cinema
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Movie Bangla TV" group-title="Movie",Movie Bangla TV
+http://alvetv.com/moviebanglatv/8080/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Action Hollywood Movies" group-title="Movie",Action Hollywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Movie Sphere" group-title="Movie",Movie Sphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Bhojpuri Cinema" group-title="Movie",Bhojpuri Cinema
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="BHOJ | Filamchi Bhojpuri" group-title="Movie",BHOJ | Filamchi Bhojpuri
+https://epiconvh.akamaized.net/live/filamchi/master.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MOV | Bollywood OLD" group-title="Movie",MOV | Bollywood OLD
+https://vods2.aynaott.com/hindimovies/tracks-v1a1/mono.ts.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MOV | NH BollyFlix" group-title="Movie",MOV | NH BollyFlix
+https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MOV | PITAARA MOVIES" group-title="Movie",MOV | PITAARA MOVIES
+https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Action Bollywood Movies" group-title="Movie",Action Bollywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | Classic Movies" group-title="Movie",EN | Classic Movies
+https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | Gravitas Movies" group-title="Movie",EN | Gravitas Movies
+https://d6dg3ebeih71x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jx9exbvh3yi8u/Gravitas_Movies.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | Great! Movies" group-title="Movie",EN | Great! Movies
+https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | My Cinema" group-title="Movie",EN | My Cinema
+https://mytime-tcl.amagi.tv/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | Mytime Movie" group-title="Movie",EN | Mytime Movie
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | MyTime Movie Network" group-title="Movie",EN | MyTime Movie Network
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | MyTime Movie Network BR" group-title="Movie",EN | MyTime Movie Network BR
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist360p.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | Sparkle Movies" group-title="Movie",EN | Sparkle Movies
+https://61fc4f1a40a342daa23f92141853b7b4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_SparkleMovies/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | Toonami Aftermath Movie" group-title="Movie",EN | Toonami Aftermath Movie
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="OTHER | Movie Dome Family" group-title="Movie",OTHER | Movie Dome Family
+https://amg00771-kochfilmsgerman-moviedomefamily-tcl-tpicw.amagi.tv/playlist/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Wild Flix Hindi" group-title="Movie",Wild Flix Hindi
+https://cc-qgrxgp51645lw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp51645lw/IQJW/WBD/WildFlix_IN/WildFlix_IN.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | CINEMAX MOREMAX" group-title="Movie",EN | CINEMAX MOREMAX
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Young Hollywood" group-title="Movie",Young Hollywood
+https://amg00143-younghollywoodl-younghollywood-xiaomi-8k5gd.amagi.tv/playlist/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Sanonda" group-title="Sports",Sanonda
+http://27.124.71.27/Willow_Extra/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="A Sports" group-title="Sports",A Sports
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Sports First TV" group-title="Sports",Sports First TV
+https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Sports Grid" group-title="Sports",Sports Grid
+https://tvsen6.aynaott.com/SportsGrid/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="WOF 1" group-title="Sports",WOF 1
+https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Talk Sport" group-title="Sports",Talk Sport
+https://tvsen6.aynaott.com/talkSPORT/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Marquee Sports Network" group-title="Sports",Marquee Sports Network
+https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Cricket Gold" group-title="Sports",Cricket Gold
+https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Bein Sports Extra 2" group-title="Sports",Bein Sports Extra 2
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MTRSPT" group-title="Sports",MTRSPT
+https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Trace Sport" group-title="Sports",Trace Sport
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="---Live(DD Sports)---" group-title="Sports",---Live(DD Sports)---
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="--Live(beIN SPORTS XTRA)--" group-title="Sports",--Live(beIN SPORTS XTRA)--
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="--Live(FOOTBALL)--" group-title="Sports",--Live(FOOTBALL)--
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="FIGHT | MVMT Culture" group-title="Sports",FIGHT | MVMT Culture
+https://d15g7z5n3epv7t.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TheGrapplingNetwork-SportsTribal/236.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MIXER | FUEL TV" group-title="Sports",MIXER | FUEL TV
+https://amg01074-fueltv-fueltvemeaen-sportstribal-n7krp.amagi.tv/ts-eu-w1-n2/playlist/amg01074-fueltv-fueltvemeaen-sportstribal/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MIXER | Horse & Country" group-title="Sports",MIXER | Horse & Country
+https://sportstri-hncfree-sportstribal-rb7j8.amagi.tv/playlist/sportstri-hncfree-sportstribal/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MIXER | InTrouble" group-title="Sports",MIXER | InTrouble
+https://amg00861-terninternation-introuble-sportstribal-sog8f.amagi.tv/ts-us-e2-n1/playlist/amg00861-terninternation-introuble-sportstribal/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MIXER | Marquee Sports Network" group-title="Sports",MIXER | Marquee Sports Network
+https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MIXER | SportsGrid" group-title="Sports",MIXER | SportsGrid
+https://sportsgrid-tribal.amagi.tv/playlistR432p.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MIXER | Trace Sports Stars" group-title="Sports",MIXER | Trace Sports Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MIXER | Unbeaten Sports Channel" group-title="Sports",MIXER | Unbeaten Sports Channel
+https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="MIXER | World of Freesports" group-title="Sports",MIXER | World of Freesports
+https://amg01866-mainstreammedia-freesportsinc-sportstribal-b3zdo.amagi.tv/ts-eu-w1-n2/playlist/amg01866-mainstreammedia-freesportsinc-sportstribal/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="POKER | Poker Night In America" group-title="Sports",POKER | Poker Night In America
+https://e8d2c508ef1e469db82ceacd3c2685bc.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1068-Poker-Night-in-America-FREELIVESPORTS/mt/freelivesports/1068/hls/master/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Travel XP" group-title="Sports",Travel XP
+https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Vevo Hip Hop & R&B" group-title="Sports",Vevo Hip Hop & R&B
+https://d7i20u8nlyf1b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lymqk2na77cwn/VevoHipHopRB_GB.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="PTV Sports" group-title="Sports",PTV Sports
+https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="A sports" group-title="Sports",A sports
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Star Jalsha HD" group-title="Sports",Star Jalsha HD
+http://1204786.3259760735.growthtry.com/live/YqXTywueEV/damp2purchase/198.ts?token=ShJcU0BbQQNHXQQOVlsCDA1UCQJQBlVTAQBbBVZTV1cIAA0FUANbDFIbGBpEF0dcWF1vWQIXXlAIWk4VEBdWQG5ZUBAJEVILVQ0DAAFBGRtNWV1VRA9VVghXUwdSUAUEHRJEW1cRWRtXAAENA1ADGxUSVUgSUBYPUA49UwASWlFUEg5cRl8PFUdWWmdTBlhYV1QSCkQFRk0TCxFHR14Rc3V+FGZWXwZaClQWFBUBXE1LUURVRA9GUgJQVBVJRlBdRF5AQEoRWRsnfRYUFQZNTVxeQ1kJW0ZbExYRFUlGWkFuQlFBR0EGWAhcRhoNQQUbFRJdUR5qBw5fDAdUEQ1cXEISDhACEU8bCFZaUUMMR2ZJWVQSXBdSWQBWVgdHSBFHRFlQEAkRVQgBC1FeAlIDWAwCBlFWAVFQAgMAAQQCVwYHU1dRAlZBRA==#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="ABC Sport in 90 Seconds" group-title="Sports",ABC Sport in 90 Seconds
+https://mediacore-live-production.akamaized.net/video/02/qi/Z/nn.mp4#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="EN | AMC Triller" group-title="Sports",EN | AMC Triller
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Autentic Adventure Earth English German" group-title="Sports",Autentic Adventure Earth English German
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Autentic History" group-title="Sports",Autentic History
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8#skym3u.dev
+#EXTINF:-1 provider="skym3u.dev" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-name="Choppertown" group-title="Sports",Choppertown
+https://7d8dc76d676946ec8d372d4ed7b22333.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-11-CHOPPERTOWN-SPORTSTRIBAL/mt/sportstribaltv/11/hls/master/playlist.m3u8#skym3u.dev
 #PLAYLIST:Prime Video Free Sports
 #LAST_UPDATE:08:32 PM 20-11-2026
 #TELEGRAM:https://t.me/livesportsplay
@@ -475,7 +1179,7 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yiibkf8ifo/out/v1
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:20:34 PM 20-11-2026
+# last_update: 08:50:34 PM 20-11-2026
 #EXTINF:-1 tvg-id="sonyliv-1090555014" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029334/1794691072000564_ISL26_Bengaluru_FC_vs_Mumbai_City_FC_live_landscape_thumb.jpg" group-title="Football", Bengaluru FC vs Mumbai City FC | MG Indian Super League 2026-27 [English]
 https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive2011/ENG/master.m3u8?hdnea=exp=1795225854~acl=/*~id=87823121889697488567454630790877~hmac=69da7916dc99bacee44ab73a76e94ac71e2508921e28592b0d63bf7a297ca400
 #EXTINF:-1 tvg-id="sonyliv-1090555014" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029334/1794691072000564_ISL26_Bengaluru_FC_vs_Mumbai_City_FC_live_landscape_thumb.jpg" group-title="Football", Bengaluru FC vs Mumbai City FC | MG Indian Super League 2026-27 [Hindi]

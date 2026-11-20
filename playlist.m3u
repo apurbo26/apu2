@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:00 PM 20-11-2026
+# Last Update: 01:15 PM 20-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -9,6 +9,8 @@ https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea
 #EXTINF:-1 tvg-id="tapmad-19997" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17944756861020x576.jpg" group-title="Cricket", Pakistan vs Sri Lanka - 2nd Test - Sri Lanka Tour of Pakistan 2026 - Server 2
 https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-20278" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17949833101020x576.jpg" group-title="Racing", FIA F4 World Cup - Qualifying - Qualifying Race - Macau Grand Prix 2026
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20284" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17949839231020x576.jpg" group-title="Racing", FIA FR World Cup - Qualifying 2 - Qualifying 2 - Macau Grand Prix 2026
 https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 #EXTINF:-1 tvg-id="Xi_Ga5oBNnOkwJLWkhKP" tvg-name="Somoy TV" tvg-logo="https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="Toffee",Somoy TV
 https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?edge-cache-token=Expires=1795161625~Starts=1795158025~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiN2Q2ZmUxMWItNzA1YS00YWQ1LWEwZjctMzkzNDg1MTRlOWQ3In0~Signature=MmyLDotuSo4vB3mpTs5f3L5s__39-5iWJpAwzEB6XswmeNHVc-eVVx6U1jdIyFr6J6cFhTaAImajoO3Ni-7oDA
@@ -439,4 +441,4 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pd55oxz1mc/
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:50:29 PM 20-11-2026
+# last_update: 01:20:33 PM 20-11-2026

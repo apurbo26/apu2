@@ -1,10 +1,12 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:30 PM 20-11-2026
+# Last Update: 02:45 PM 20-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 #EXTINF:-1 tvg-id="tapmad-20284" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17949839231020x576.jpg" group-title="Racing", FIA FR World Cup - Qualifying 2 - Qualifying 2 - Macau Grand Prix 2026
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20290" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17949853831020x576.jpg" group-title="Racing", FIA GT World Cup - Qualifying - Q1 - Qualifying 1 - Macau Grand Prix 2026
 https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19205" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948125191020x576.jpg" group-title="Cricket", Adelaide Strikers vs Melbourne Renegades - Group Stage - Women's Big Bash League 2026 - Server 1
 https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
@@ -445,4 +447,4 @@ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7swiykissa/out/v1
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:20:36 PM 20-11-2026
+# last_update: 02:50:30 PM 20-11-2026

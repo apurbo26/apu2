@@ -1,13 +1,17 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:30 PM 21-11-2026
+# Last Update: 11:45 PM 21-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-20242" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951722501020x576.jpg" group-title="Football", Rayo Vallecano vs Valencia - MATCHDAY 13 - LaLiga 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19969" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17949010511020x576.jpg" group-title="Football", Nice vs PSG - MATCHDAY 11 - French Ligue 1 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20243" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951723171020x576.jpg" group-title="Football", Sevilla vs Betis - MATCHDAY 13 - LaLiga 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19318" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948117991020x576.jpg" group-title="Mma", Prochazka vs Stirling - Fight Night - UFC 2026 - Server 1
+https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19318" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948117991020x576.jpg" group-title="Mma", Prochazka vs Stirling - Fight Night - UFC 2026 - Server 2
+https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 #EXTINF:-1 tvg-id="Xi_Ga5oBNnOkwJLWkhKP" tvg-name="Somoy TV" tvg-logo="https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="Toffee",Somoy TV
 https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?edge-cache-token=Expires=1795285826~Starts=1795282226~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiN2Q2ZmUxMWItNzA1YS00YWQ1LWEwZjctMzkzNDg1MTRlOWQ3In0~Signature=B44ddjoFWvFnricyHmFBZw6NqpN8gjAWURCKNoKQeZvJDlt35ERLJVn0vf9HZ1FSeqhNAmqyz2j0jMEbdsWjDA
 #EXTINF:-1 tvg-id="kK2aX5UBrjBfS2_RBcKf" tvg-name="Zee Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="Toffee",Zee Bangla
@@ -1177,6 +1181,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:20:31 PM 21-11-2026
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029480/1795172675588333_AsiaCup_RisingStar_BAN-vs-AFG_Live_landscape_thumb.jpg" group-title="Live Sports",Bangladesh A vs Afghanistan A - ACC Men's Asia Cup Rising Stars 2026
-https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2111/ENG/master.m3u8?hdnea=exp=1795324831~acl=/*~id=82913930924097269305625579149072~hmac=141869b57757e52bbfafc7d8017b9aeb34bf37f9ffa408928c3f5c2ffcd67122
+# last_update: 11:50:29 PM 21-11-2026
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg" group-title="Live Sports",UFC Fight Night - Prochazka vs Stirling
+https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_Proc2111/ENG/master.m3u8?hdnea=exp=1795333429~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=261e5f6fbd60fba1c1d896c582891957f0162cbbb9fb43c5295db43da0dbad21

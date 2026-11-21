@@ -1,13 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:30 PM 21-11-2026
+# Last Update: 06:45 PM 21-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-20134" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948128511020x576.jpg" group-title="Cricket", Australia vs England - 1st T20I - England Tour of Australia 2026 - Server 1
-https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-20134" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948128511020x576.jpg" group-title="Cricket", Australia vs England - 1st T20I - England Tour of Australia 2026 - Server 2
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-id="Xi_Ga5oBNnOkwJLWkhKP" tvg-name="Somoy TV" tvg-logo="https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="Toffee",Somoy TV
 https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?edge-cache-token=Expires=1795267824~Starts=1795264224~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiN2Q2ZmUxMWItNzA1YS00YWQ1LWEwZjctMzkzNDg1MTRlOWQ3In0~Signature=JZ3AQUM-DadLVEjoZgSFvOIh5g_k83qkEIH6PVp2LXz-O21nhwAKbo549clK7KiLc-FtLmHlMUzIgdH2drc8BQ
 #EXTINF:-1 tvg-id="kK2aX5UBrjBfS2_RBcKf" tvg-name="Zee Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="Toffee",Zee Bangla
@@ -1159,10 +1155,10 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifk
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:20:27 PM 21-11-2026
+# last_update: 06:50:27 PM 21-11-2026
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029335/1794702022000862_ISL26_Chennaiyin_fC_vs_Punjab_FC_landscape_thumb.jpg" group-title="Live Sports",Chennaiyin FC vs Punjab FC - MG Indian Super League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2111/ENG/master.m3u8?hdnea=exp=1795313555~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=a44676f6a2dae3c28c9a9802aa527db98a5a04aed432d4d0ec0da91c936e8381
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029479/1795171533377724_AsiaCup_RisingStar_SRI-A_vs_HKC_Live_landscape_thumb.jpg" group-title="Live Sports",Sri Lanka A vs Hong Kong - China - ACC Men's Asia Cup Rising Stars 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2111/ENG/master.m3u8?hdnea=exp=1795306756~acl=/*~id=90562635393194968322586110338398~hmac=7796239d22578e037be8fb59fe89baee9fd2172e65230388b4f22bf24abd141a
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2111/ENG/master.m3u8?hdnea=exp=1795315426~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=3caebf6f718d51f5210edea732b6bd1a3eaaf44e67a4e326854bc549034a8a64
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029480/1795172675588333_AsiaCup_RisingStar_BAN-vs-AFG_Live_landscape_thumb.jpg" group-title="Live Sports",Bangladesh A vs Afghanistan A - ACC Men's Asia Cup Rising Stars 2026
-https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2111/ENG/master.m3u8?hdnea=exp=1795306756~acl=/*~id=90562635393194968322586110338398~hmac=7796239d22578e037be8fb59fe89baee9fd2172e65230388b4f22bf24abd141a
+https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2111/ENG/master.m3u8?hdnea=exp=1795308627~acl=/*~id=38602029335046280267495680428128~hmac=ae91dedab2ca1f01700be41780e6934bc9b9755c6aba4c9e7d2745d228d17040
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029479/1795171533377724_AsiaCup_RisingStar_SRI-A_vs_HKC_Live_landscape_thumb.jpg" group-title="Live Sports",Sri Lanka A vs Hong Kong - China - ACC Men's Asia Cup Rising Stars 2026
+https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2111/ENG/master.m3u8?hdnea=exp=1795308627~acl=/*~id=38602029335046280267495680428128~hmac=ae91dedab2ca1f01700be41780e6934bc9b9755c6aba4c9e7d2745d228d17040

@@ -1,9 +1,13 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:45 PM 22-11-2026
+# Last Update: 07:00 PM 22-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
+#EXTINF:-1 tvg-id="tapmad-20245" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951725451020x576.jpg" group-title="Football", Barcelona vs Villarreal - MATCHDAY 13 - LaLiga 2026/27 - Server 1
+https://t-prod-bd.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20245" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951725451020x576.jpg" group-title="Football", Barcelona vs Villarreal - MATCHDAY 13 - LaLiga 2026/27 - Server 2
+https://t-prod-bd.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 tvg-id="Xi_Ga5oBNnOkwJLWkhKP" tvg-name="Somoy TV" tvg-logo="https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="Toffee",Somoy TV
 https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?edge-cache-token=Expires=1795354223~Starts=1795350623~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiN2Q2ZmUxMWItNzA1YS00YWQ1LWEwZjctMzkzNDg1MTRlOWQ3In0~Signature=auQDe5rDTI2EPDZahS3r5zGI72VXQ8Th9sBYxzlaWWw5Vba1HfTnt0OtdEZLNm29b0SJaBVNC4k9IlJaSq5UCA
 #EXTINF:-1 tvg-id="kK2aX5UBrjBfS2_RBcKf" tvg-name="Zee Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="Toffee",Zee Bangla

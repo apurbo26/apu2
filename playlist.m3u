@@ -1,15 +1,13 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 12:00 AM 24-11-2026
+# Last Update: 12:15 AM 24-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-19743" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17950756261020x576.jpg" group-title="Football", Al Shamal SC (QAT) vs Al Ahli Saudi FC (KSA) - MATCHDAY 5 - AFC Champions League Elite 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19738" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17950751011020x576.jpg" group-title="Football", Tractor FC (IRN) vs Al Wasl FC (UAE) - MATCHDAY 5 - AFC Champions League Elite 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19733" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17950772001020x576.jpg" group-title="Football", Al Ain FC (UAE) vs Esteghlal FC (IRN) - MATCHDAY 5 - AFC Champions League Elite 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19753" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17950800841020x576.jpg" group-title="Football", Air Force SC (IRQ) vs Al-Gharafa SC (QAT) - MATCHDAY 5 - AFC Champions League Elite 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19748" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951605741020x576.jpg" group-title="Football", Al Ittihad Club (KSA) vs Pakhtakor (UZB) - MATCHDAY 5 - AFC Champions League Elite 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 tvg-id="Xi_Ga5oBNnOkwJLWkhKP" tvg-name="Somoy TV" tvg-logo="https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="Toffee",Somoy TV
 https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?edge-cache-token=Expires=1795460428~Starts=1795456828~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiN2Q2ZmUxMWItNzA1YS00YWQ1LWEwZjctMzkzNDg1MTRlOWQ3In0~Signature=Xu5C6tUH51Bi1TACfD0QQku9Jhw5iu2Dnsw-2y2pPznBiw1eX3UL7l0ZWNIrjkYQb0I9d72jV0kVxWJDOqsgAw
 #EXTINF:-1 tvg-id="kK2aX5UBrjBfS2_RBcKf" tvg-name="Zee Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="Toffee",Zee Bangla
@@ -1825,4 +1823,4 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bcjujmrzz
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:50:27 PM 23-11-2026
+# last_update: 12:20:28 AM 24-11-2026

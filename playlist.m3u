@@ -1,11 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 10:30 PM 24-11-2026
+# Last Update: 10:45 PM 24-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-19568" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951598181020x576.jpg" group-title="Football", East Bengal FC (IND) vs Al Hussein (JOR) - MATCHDAY 5 - AFC Champions League Two 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19788" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951666271020x576.jpg" group-title="Football", Shabab Al Ahli (UAE) vs Al Qadsiah Club (KSA) - MATCHDAY 5 - AFC Champions League Elite 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19573" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951601401020x576.jpg" group-title="Football", Al Seeb Club (OMA) vs Al Shorta (IRQ) - MATCHDAY 5 - AFC Champions League Two 2026/27
@@ -1819,6 +1817,4 @@ https://ABKZLCWAAAAAAAAMG2VD4L57RSHHG.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhA
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:20:30 PM 24-11-2026
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029517/1795024918000181_ISL26_NorthEast_United_vs_Sporting_Club_Delhi_landscape_thumb.jpg" group-title="Live Sports",NorthEast United vs Sporting Club Delhi - MG Indian Super League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive2411/ENG/master.m3u8?hdnea=exp=1795587174~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=28f08ae7243de4dc456e120bf0f89bbbe3cb643141353503c8064cd6024a4d45
+# last_update: 10:50:32 PM 24-11-2026

@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:30 PM 24-11-2026
+# Last Update: 07:45 PM 24-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -10,6 +10,8 @@ https://multiregion-asia-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a
 https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19773" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951663191020x576.jpg" group-title="Football", Shanghai Port FC (CHN) vs Buriram United (THA) - MATCHDAY 5 - AFC Champions League Elite 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19568" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951598181020x576.jpg" group-title="Football", East Bengal FC (IND) vs Al Hussein (JOR) - MATCHDAY 5 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 #EXTINF:-1 tvg-id="Xi_Ga5oBNnOkwJLWkhKP" tvg-name="Somoy TV" tvg-logo="https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="Toffee",Somoy TV
 https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?edge-cache-token=Expires=1795530623~Starts=1795527023~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMWY1YzdmNDItZWJkMi00ZmUwLWJlYWItNWM5ZTIzMDc3ZmI1In0~Signature=NQsU72Vf8ihFAoMeb3DONQjmIIEQMn2cFw6GKgrxy-PjAqTwjDX_gRBUc1x8bYWoc4FXF5ni_v_vnlNN2EofDQ
 #EXTINF:-1 tvg-id="kK2aX5UBrjBfS2_RBcKf" tvg-name="Zee Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="Toffee",Zee Bangla
@@ -1843,8 +1845,8 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3if
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:20:33 PM 24-11-2026
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029724/1795410670843751_ACRS26_PAK_A_vs_NEPAL_live_landscape_thumb.jpg" group-title="Live Sports",Pakistan A vs Nepal - ACC Men's Asia Cup Rising Stars 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/Criclive2411/ENG/master.m3u8?hdnea=exp=1795569355~acl=/*~id=51820061670726398524622980654239~hmac=680ef94542e6bbb13e996a9a34591159d02657fa116edf1a3e6a7edf96536c21
+# last_update: 07:50:28 PM 24-11-2026
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029517/1795024918000181_ISL26_NorthEast_United_vs_Sporting_Club_Delhi_landscape_thumb.jpg" group-title="Live Sports",NorthEast United vs Sporting Club Delhi - MG Indian Super League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive2411/ENG/master.m3u8?hdnea=exp=1795576432~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=2775fed0621c35fd8f8148b4243f0b2d58975d41de72f1549b59d63acb208550
+https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive2411/ENG/master.m3u8?hdnea=exp=1795578108~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0ce5de1764e12b181c158e089e5c91072a2683453137a311b34eb4e0181fea56
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029724/1795410670843751_ACRS26_PAK_A_vs_NEPAL_live_landscape_thumb.jpg" group-title="Live Sports",Pakistan A vs Nepal - ACC Men's Asia Cup Rising Stars 2026
+https://sonydaimenew.akamaized.net/hls/live/2120299/Criclive2411/ENG/master.m3u8?hdnea=exp=1795571308~acl=/*~id=48519029636008241048301688334304~hmac=81e3d62842870cfc5e682265ec8788d4b1dca9e2be953915f13ea78684ae202d

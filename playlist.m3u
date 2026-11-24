@@ -1,13 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 06:30 PM 24-11-2026
+# Last Update: 06:45 PM 24-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-19768" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951652401020x576.jpg" group-title="Football", Kyoto Sanga F.C. (JPN) vs FC Pohang Steelers (KOR) - MATCHDAY 5 - AFC Champions League Elite 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19763" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951645181020x576.jpg" group-title="Football", Daejeon Hana Citizen FC (KOR) vs Beijing FC (CHN) - MATCHDAY 5 - AFC Champions League Elite 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19783" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951656921020x576.jpg" group-title="Football", Cong An Ha Noi (VIE) vs Vissel Kobe (JPN) - MATCHDAY 5 - AFC Champions League Elite 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19778" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951660221020x576.jpg" group-title="Football", Ratchaburi FC (THA) vs Johor Darul Ta'zim FC (MAS) - MATCHDAY 5 - AFC Champions League Elite 2026/27
@@ -1799,6 +1795,6 @@ https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:20:33 PM 24-11-2026
+# last_update: 06:50:29 PM 24-11-2026
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029724/1795410670843751_ACRS26_PAK_A_vs_NEPAL_live_landscape_thumb.jpg" group-title="Live Sports",Pakistan A vs Nepal - ACC Men's Asia Cup Rising Stars 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/Criclive2411/ENG/master.m3u8?hdnea=exp=1795565763~acl=/*~id=27800537788292363088719171709304~hmac=59211ad5d59720e27ff0b3fe454caeb6a19def368017b1880ae46538d57db728
+https://sonydaimenew.akamaized.net/hls/live/2120299/Criclive2411/ENG/master.m3u8?hdnea=exp=1795567572~acl=/*~id=68481483092542763816216688024610~hmac=31a8f5c7fb33c7a0379c0a162f0a0c1d613fcfdedb327b9c339e2b8d5b5096be

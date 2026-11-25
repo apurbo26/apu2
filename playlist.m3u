@@ -1,17 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:00 AM 26-11-2026
+# Last Update: 01:15 AM 26-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-19603" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955121951020x576.jpg" group-title="Football", Kuwait SC (KUW) vs Al Wahda FC (UAE) - MATCHDAY 5 - AFC Champions League Two 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19598" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955117691020x576.jpg" group-title="Football", Al Muharraq SC (BHR) vs FC Arkadag (TKM) - MATCHDAY 5 - AFC Champions League Two 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19593" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955113571020x576.jpg" group-title="Football", Al Jazira Club (UAE) vs Golgohar Sirjan SC (IRN) - MATCHDAY 5 - AFC Champions League Two 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19588" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955110281020x576.jpg" group-title="Football", Al Faisaly (JOR) vs Al Rayyan SC (QAT) - MATCHDAY 5 - AFC Champions League Two 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19403" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955045671020x576.jpg" group-title="Football", Slavia Praha vs Villarreal - MATCHDAY 5 - UEFA Champions League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19402" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955044351020x576.jpg" group-title="Football", Sabah vs Barcelona - MATCHDAY 5 - UEFA Champions League 2026/27
@@ -1833,8 +1825,8 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:50:33 AM 26-11-2026
+# last_update: 01:20:31 AM 26-11-2026
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343521422198_UCL26_MD5_Sabah_FC_vs_Barcelona_landscape_thumb.jpg" group-title="Live Sports",Sabah FC vs Barcelona - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2037139/footlive2511/ENG/master.m3u8?hdnea=exp=1795682632~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=7a9298cbd2a30a8b5a9ac592860e0d008e80995bddb999bb293aa7db719030e2
+https://sonydaimenew.akamaized.net/hls/live/2037139/footlive2511/ENG/master.m3u8?hdnea=exp=1795684431~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=b058c4017a4de7117d83c61f67e41c2ec0c7a2ab1f948e530a8d315db129c260
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795341493241198_UCL26_MD5_Slavia_Praha_vs_Villarreal_landscape_thumb.jpg" group-title="Live Sports",Slavia Praha vs Villarreal - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120301/footlive2511/ENG/master.m3u8?hdnea=exp=1795682633~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=d5dea342f0b97eab656e1441a40fe824fd0a94348d46af32eceb5b7ab9ac5d48
+https://sonydaimenew.akamaized.net/hls/live/2120301/footlive2511/ENG/master.m3u8?hdnea=exp=1795684431~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=b058c4017a4de7117d83c61f67e41c2ec0c7a2ab1f948e530a8d315db129c260

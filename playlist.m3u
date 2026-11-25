@@ -1,21 +1,15 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 04:00 AM 26-11-2026
+# Last Update: 04:15 AM 26-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-19410" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955079071020x576.jpg" group-title="Football", Sporting CP vs Manchester United - MATCHDAY 5 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19409" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955077691020x576.jpg" group-title="Football", Paris Saint-Germain vs Roma - MATCHDAY 5 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19408" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955076311020x576.jpg" group-title="Football", Lille vs Bayern Munchen - MATCHDAY 5 - UEFA Champions League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19407" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955074151020x576.jpg" group-title="Football", Shakhtar Donetsk vs Fenerbahce - MATCHDAY 5 - UEFA Champions League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19406" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955069111020x576.jpg" group-title="Football", Inter vs Stuttgart - MATCHDAY 5 - UEFA Champions League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19405" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955067461020x576.jpg" group-title="Football", Club Brugge vs Liverpool - MATCHDAY 5 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19404" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955061471020x576.jpg" group-title="Football", Atletico Madrid vs Viking - MATCHDAY 5 - UEFA Champions League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
 #EXTINF:-1 tvg-id="Xi_Ga5oBNnOkwJLWkhKP" tvg-name="Somoy TV" tvg-logo="https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="Toffee",Somoy TV
@@ -1827,18 +1821,4 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhy
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:50:29 AM 26-11-2026
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343735792198_UCL26_MD5_PSG_vs_roma_landscape_thumb.jpg" group-title="Live Sports",PSG vs AS Roma - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive2511/ENG/master.m3u8?hdnea=exp=1795693429~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=70e98eec75bc643e61bff22516f583fc2b45e49605e174a3fcf510b27bef0bee
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350859703820_UCL26_MD5_Lille_vs_Bayern_landscape_thumb.jpg" group-title="Live Sports",Lille vs Bayern Munich - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2118670/Footlive2511/ENG/master.m3u8?hdnea=exp=1795693429~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=70e98eec75bc643e61bff22516f583fc2b45e49605e174a3fcf510b27bef0bee
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343863613198_UCL26_MD5_Inter_vs_Stuttgart_landscape_thumb.jpg" group-title="Live Sports",Inter Milan vs VfB Stuttgart - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2037142/Footlive2511/ENG/master.m3u8?hdnea=exp=1795693429~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=70e98eec75bc643e61bff22516f583fc2b45e49605e174a3fcf510b27bef0bee
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795344031626198_UCL26_MD5_Atletico_vs_Viking_landscape_thumb.jpg" group-title="Live Sports",Atlético de Madrid vs Viking FK - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2037143/Footlive2511/ENG/master.m3u8?hdnea=exp=1795693429~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=70e98eec75bc643e61bff22516f583fc2b45e49605e174a3fcf510b27bef0bee
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="Live Sports",Sporting CP vs Manchester United - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2105079/Footlive2511/ENG/master.m3u8?hdnea=exp=1795693429~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=70e98eec75bc643e61bff22516f583fc2b45e49605e174a3fcf510b27bef0bee
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795351785173820_UCL26_MD5_Shakhtar_Donetsk_vs_Fenerbahce_landscape_thumb.jpg" group-title="Live Sports",Shakhtar Donetsk vs Fenerbahçe - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2118668/Footlive2511/ENG/master.m3u8?hdnea=exp=1795693429~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=70e98eec75bc643e61bff22516f583fc2b45e49605e174a3fcf510b27bef0bee
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350640916820_UCL26_MD5_Club_Brugge_vs_Liverpool_landscape_thumb.jpg" group-title="Live Sports",Club Brugge vs Liverpool - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2118669/Footlive2511/ENG/master.m3u8?hdnea=exp=1795693429~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=70e98eec75bc643e61bff22516f583fc2b45e49605e174a3fcf510b27bef0bee
+# last_update: 04:20:28 AM 26-11-2026

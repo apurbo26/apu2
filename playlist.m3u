@@ -1,9 +1,13 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 01:30 PM 27-11-2026
+# Last Update: 01:45 PM 27-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
+#EXTINF:-1 tvg-id="tapmad-20136" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948132271020x576.jpg" group-title="Cricket", Australia vs England - 3rd T20I - England Tour of Australia 2026 - Server 1
+https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20136" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948132271020x576.jpg" group-title="Cricket", Australia vs England - 3rd T20I - England Tour of Australia 2026 - Server 2
+https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="Xi_Ga5oBNnOkwJLWkhKP" tvg-name="Somoy TV" tvg-logo="https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="Toffee",Somoy TV
 https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?edge-cache-token=Expires=1795768222~Starts=1795764622~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMWY1YzdmNDItZWJkMi00ZmUwLWJlYWItNWM5ZTIzMDc3ZmI1In0~Signature=UCubi0sTsczDJEIUei_68LSZ-Q7iN77vkddVMHMeMnH5l-_cazsUFG_DrEih0jv8TjF0wEPNrQtftbyOJAwICg
 #EXTINF:-1 tvg-id="kK2aX5UBrjBfS2_RBcKf" tvg-name="Zee Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="Toffee",Zee Bangla
@@ -1795,6 +1799,6 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueeph
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:20:27 PM 27-11-2026
+# last_update: 01:50:26 PM 27-11-2026
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030114/1795761699256622_AO_wildcard_playoffs_2027_Mens_Doubles_Final_landscape_thumb.jpg" group-title="Live Sports",Men's & Women's Doubles - Final - AO Asia Pacific Wildcard Playoffs 2027
-https://sonydaimenew.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/master.m3u8?hdnea=exp=1795813992~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=d015578b6fddea4ab0ccccdfb7c86bc547596fd452c8b344c32ffbbb795634f5
+https://sonydaimenew.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411

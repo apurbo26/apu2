@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 07:00 AM 27-11-2026
+# Last Update: 07:15 AM 27-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -9,6 +9,8 @@ https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115f
 #EXTINF:-1 tvg-id="tapmad-19066" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948150491020x576.jpg" group-title="Cricket", New Zealand vs India - 2nd Test - India Tour of New Zealand 2026 - Server 2
 https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-20521" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17957207731020-23andlast.jpg" group-title="Racing", GTWCA - Qualifying Round - Part 1 - Adelaide, Australia - Qualifying Race - GT World Challenge EU & Asia 2026
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20524" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17957211221020-23andlast.jpg" group-title="Racing", GTWCA - Qualifying Round - Part 2 - Adelaide, Australia - Qualifying Race - GT World Challenge EU & Asia 2026
 https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 #EXTINF:-1 tvg-id="Xi_Ga5oBNnOkwJLWkhKP" tvg-name="Somoy TV" tvg-logo="https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="Toffee",Somoy TV
 https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?edge-cache-token=Expires=1795744826~Starts=1795741226~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMWY1YzdmNDItZWJkMi00ZmUwLWJlYWItNWM5ZTIzMDc3ZmI1In0~Signature=4ChX1P92D0tDqCNDmmdAGgkgr1EfzFv9UDsYK1x2iZKvD0PnMidYjnDm6H0sRycwinKosG_5sreNCMQmLuQXBg
@@ -1825,8 +1827,8 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:50:33 AM 27-11-2026
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Live Sports",2nd Test - Day 1 - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795790633~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=151aec3b4cb1ba2fb3174fed29391de44676331df71bfc3425566ffa4e7e2df9
+# last_update: 07:20:29 AM 27-11-2026
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029986/1795622243895554_DP_World_Tour_BMW_PGA_day2_landscape_thumb.jpg" group-title="Live Sports",BMW Australian PGA Championship - Day 2 - DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/master.m3u8?hdnea=exp=1795790633~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=151aec3b4cb1ba2fb3174fed29391de44676331df71bfc3425566ffa4e7e2df9
+https://sonydaimenew.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/master.m3u8?hdnea=exp=1795792342~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=14876a4b020b141c698019a3455fd427a57bec8803b9738008ce751ff240edb4
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Live Sports",2nd Test - Day 1 - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795792342~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=14876a4b020b141c698019a3455fd427a57bec8803b9738008ce751ff240edb4

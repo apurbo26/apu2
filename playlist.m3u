@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 03:30 PM 27-11-2026
+# Last Update: 03:45 PM 27-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -14,6 +14,8 @@ https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-20367" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17956792471020x576.jpg" group-title="Football", Bangladesh Police FC vs Abahani Ltd. Dhaka - Round 6 - Bangladesh Football League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19213" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17954152531020x576.jpg" group-title="Cricket", Perth Scorchers vs Hobart Hurricanes - Group Stage - Women's Big Bash League 2026
+https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
 #EXTINF:-1 tvg-id="Xi_Ga5oBNnOkwJLWkhKP" tvg-name="Somoy TV" tvg-logo="https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="Toffee",Somoy TV
 https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?edge-cache-token=Expires=1795775422~Starts=1795771822~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMWY1YzdmNDItZWJkMi00ZmUwLWJlYWItNWM5ZTIzMDc3ZmI1In0~Signature=F8M9t_6cI1CObY-t8rXfsFbjbjmSuJBem9FlFJw9_5GFmmlqMElylFtp8OZRfXsKGWcz0RPicf3OF5EI1UUiBg
 #EXTINF:-1 tvg-id="kK2aX5UBrjBfS2_RBcKf" tvg-name="Zee Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="Toffee",Zee Bangla
@@ -1817,8 +1819,6 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ihqh5jfd
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:20:33 PM 27-11-2026
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030044/1795694828696427_AO_wildcard_playoffs_2027_Womens_and_Mens_Doubles_Final_landscape_thumb.jpg" group-title="Live Sports",Men's & Women's Doubles - Final - AO Asia Pacific Wildcard Playoffs 2027
-https://sonydaimenew.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/master.m3u8?hdnea=exp=1795821232~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=c619d70cdd675804ddb86ce7025a8a42e456edf6b85e65995461acbbd7f2bf3c
+# last_update: 03:50:26 PM 27-11-2026
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029940/1795599539816102_ACC_Rising_Star_SF_PAK_vs_BAN_live_landscape_thumb.jpg" group-title="Live Sports",Pakistan A vs Bangladesh A - Semi-Final - ACC Men's Asia Cup Rising Stars 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795814432~acl=/*~id=03028719362836718699102298873974~hmac=7d1de365584060b9fb2b8d7860123eb8cfbdb24d65c51eea8ca8cc6ce9f6f198
+https://sonydaimenew.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795816214~acl=/*~id=70698983192081031079768862902179~hmac=ca8e5e9134b486a8476ce77b162180343570e8a78dbfb76545297f0ede550c1e

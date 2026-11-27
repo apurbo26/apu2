@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:30 PM 27-11-2026
+# Last Update: 05:45 PM 27-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -8,12 +8,6 @@
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-20136" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948132271020x576.jpg" group-title="Cricket", Australia vs England - 3rd T20I - England Tour of Australia 2026 - Server 2
 https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-20370" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17956794791020x576.jpg" group-title="Football", Dhaka Wanderers Club vs Arambagh Krira Shangha - Round 6 - Bangladesh Football League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-20369" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17956794001020x576.jpg" group-title="Football", Rahamatgonj MFS vs Mohammedan SC Ltd - Round 6 - Bangladesh Football League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-20367" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17956792471020x576.jpg" group-title="Football", Bangladesh Police FC vs Abahani Ltd. Dhaka - Round 6 - Bangladesh Football League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19213" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17954152531020x576.jpg" group-title="Cricket", Perth Scorchers vs Hobart Hurricanes - Group Stage - Women's Big Bash League 2026
 https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-20368" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17956793291020x576.jpg" group-title="Football", Bashundhara Kings vs Fortis FC Ltd. - Round 6 - Bangladesh Football League 2026/27
@@ -1839,6 +1833,6 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifk
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:20:31 PM 27-11-2026
+# last_update: 05:50:29 PM 27-11-2026
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029940/1795599539816102_ACC_Rising_Star_SF_PAK_vs_BAN_live_landscape_thumb.jpg" group-title="Live Sports",Pakistan A vs Bangladesh A - Semi-Final - ACC Men's Asia Cup Rising Stars 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795821631~acl=/*~id=32925051693239935817503839494496~hmac=13eb60015a6cb8338377a3013d6ddbebd9c3b4006a73266ea6d423713fd782c7
+https://sonydaimenew.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795823408~acl=/*~id=62599314562720538754918503227254~hmac=fe0ad392d1d1b3379afa3a168977ba13f19cfef4c53e6084e746ee689316012a
